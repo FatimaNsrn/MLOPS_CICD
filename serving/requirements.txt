@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 fastapi
 uvicorn
 pandas
@@ -10,11 +10,4 @@ joblib
 flake8
 pytest
 
-=======
-fastapi
-uvicorn
-pandas
-mlflow
-pydantic
-scikit-learn
->>>>>>> 1dbc0d8a6d9c323244935092c7306f6e3f800612
+
