@@ -11,6 +11,7 @@ def test_feature_hashing_consistency():
     # Same input → same hash
     assert np.array_equal(hashed[0], hashed[1])
 
+
 def test_feature_hashing_shape():
     hasher = FeatureHasher(n_features=16, input_type="string")
 
