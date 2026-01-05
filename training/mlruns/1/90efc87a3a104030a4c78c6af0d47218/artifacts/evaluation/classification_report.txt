@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+        loss       0.68      0.87      0.77       781
+ profit_high       0.81      0.78      0.79      2204
+  profit_low       0.58      0.53      0.55      1515
+
+    accuracy                           0.71      4500
+   macro avg       0.69      0.73      0.70      4500
+weighted avg       0.71      0.71      0.71      4500

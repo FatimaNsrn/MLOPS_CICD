@@ -1,0 +1,35 @@
+# Author: Mezred Mohamed Wassim
+# Role: MLOps / Monitoring Engineer
+
+model:
+  name: profit_classifier_catboost
+  stage: Production
+
+data:
+  required_columns:
+    - product_id
+    - store_id
+    - category
+    - brand
+    - season
+    - day_of_week
+    - promotion_type
+    - is_holiday
+    - base_price
+    - discount_rate
+    - profit_margin
+    - avg_units_sold_30d
+    - avg_customers_30d
+
+drift:
+  warning_threshold: 0.10
+  alert_threshold: 0.20
+
+performance:
+  f1_macro_min: 0.70
+  recall_macro_min: 0.70
+
+fallback:
+  default_discount: 0.0
+  max_discount: 0.10
+  holiday_max_discount: 0.05

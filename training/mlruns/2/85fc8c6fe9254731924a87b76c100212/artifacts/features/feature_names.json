@@ -1,0 +1,17 @@
+[
+  "product_id",
+  "category",
+  "brand",
+  "store_id",
+  "store_location",
+  "base_price",
+  "discount_rate",
+  "promotion_type",
+  "day_of_year",
+  "month",
+  "day_of_week",
+  "season",
+  "is_holiday",
+  "avg_units_sold_30d",
+  "avg_customers_30d"
+]

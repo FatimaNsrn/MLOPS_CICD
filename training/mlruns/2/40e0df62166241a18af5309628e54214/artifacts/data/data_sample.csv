@@ -1,0 +1,101 @@
+product_id,product_name,category,brand,store_id,store_name,store_location,base_price,discount_rate,promotion_type,day_of_year,month,day_of_week,season,is_holiday,avg_units_sold_30d,avg_customers_30d,profit_margin,profit_class,profit_class_quantile,profit_class_3
+P100901,L'Oreal Sports Item,Sports,L'Oreal,S010,Amazon Store 10,US-East,211.96,0.0,No Promotion,168,6,Tue,Spring,0,14,33,0.332,high,high,profit_high
+P100424,Samsung Electronics Item,Electronics,Samsung,S035,Amazon Store 35,US-West,231.01,0.35,Flash Sale,339,12,Wed,Fall,0,25,35,-0.136,loss,loss,loss
+P100014,Adidas Home Item,Home,Adidas,S029,Amazon Store 29,US-East,147.61,0.0,No Promotion,193,7,Sat,Summer,0,8,11,0.238,medium,medium,profit_low
+P100848,HP Grocery Item,Grocery,HP,S049,Amazon Store 49,US-East,23.4,0.58,Clearance,283,10,Mon,Fall,0,23,39,-0.5,loss,loss,loss
+P100122,AmazonBasics Grocery Item,Grocery,AmazonBasics,S002,Amazon Store 2,US-East,29.66,0.11,Holiday,336,12,Mon,Fall,0,32,45,0.247,medium,medium,profit_low
+P100091,Samsung Sports Item,Sports,Samsung,S037,Amazon Store 37,EU,83.74,0.15,Seasonal,13,1,Sun,Winter,0,43,62,0.282,medium,medium,profit_high
+P100569,Apple Sports Item,Sports,Apple,S023,Amazon Store 23,Canada,41.82,0.21,Flash Sale,240,8,Wed,Summer,0,9,15,0.33,high,high,profit_high
+P100658,Dell Electronics Item,Electronics,Dell,S004,Amazon Store 4,EU,926.3,0.0,No Promotion,320,11,Tue,Fall,0,19,37,0.493,high,high,profit_high
+P100109,LG Fashion Item,Fashion,LG,S012,Amazon Store 12,Canada,88.65,0.12,Holiday,147,5,Thu,Spring,0,5,8,0.237,medium,medium,profit_low
+P100459,LG Grocery Item,Grocery,LG,S042,Amazon Store 42,US-East,18.01,0.2,Seasonal,204,7,Sat,Summer,0,25,38,0.144,low,low,profit_low
+P101097,Dell Sports Item,Sports,Dell,S021,Amazon Store 21,UK,37.23,0.05,Seasonal,80,3,Tue,Spring,0,34,44,0.314,high,high,profit_high
+P100496,Samsung Home Item,Home,Samsung,S033,Amazon Store 33,UK,156.94,0.0,No Promotion,43,2,Fri,Winter,0,31,66,0.429,high,high,profit_high
+P100078,Apple Beauty Item,Beauty,Apple,S022,Amazon Store 22,UK,59.54,0.0,No Promotion,89,3,Thu,Spring,0,16,32,0.295,medium,medium,profit_high
+P100422,Sony Home Item,Home,Sony,S043,Amazon Store 43,US-West,34.94,0.0,No Promotion,148,5,Sat,Spring,0,13,26,0.345,high,high,profit_high
+P101181,Nike Beauty Item,Beauty,Nike,S013,Amazon Store 13,US-East,199.91,0.15,Seasonal,95,4,Fri,Spring,0,26,44,0.165,medium,medium,profit_low
+P100872,HP Beauty Item,Beauty,HP,S015,Amazon Store 15,US-West,34.69,0.0,No Promotion,151,6,Wed,Spring,0,27,63,0.455,high,high,profit_high
+P100288,LG Fashion Item,Fashion,LG,S038,Amazon Store 38,EU,102.98,0.0,No Promotion,2,1,Fri,Winter,0,14,19,0.266,medium,medium,profit_high
+P100468,Adidas Grocery Item,Grocery,Adidas,S041,Amazon Store 41,US-West,39.31,0.0,No Promotion,22,1,Wed,Winter,0,40,88,0.244,medium,medium,profit_low
+P100737,HP Home Item,Home,HP,S015,Amazon Store 15,US-West,36.54,0.18,Seasonal,313,11,Fri,Fall,0,13,17,0.068,low,low,profit_low
+P100577,Adidas Electronics Item,Electronics,Adidas,S005,Amazon Store 5,UK,446.61,0.09,Seasonal,328,11,Thu,Fall,0,11,15,0.335,high,high,profit_high
+P101170,Apple Sports Item,Sports,Apple,S008,Amazon Store 8,US-West,299.4,0.0,No Promotion,7,1,Fri,Winter,1,33,78,0.451,high,high,profit_high
+P101065,Nike Sports Item,Sports,Nike,S027,Amazon Store 27,UK,141.25,0.0,No Promotion,206,7,Tue,Summer,0,13,22,0.423,high,high,profit_high
+P100701,Samsung Home Item,Home,Samsung,S001,Amazon Store 1,US-East,416.87,0.29,Holiday,114,4,Wed,Spring,1,17,35,0.11,low,low,profit_low
+P100026,L'Oreal Beauty Item,Beauty,L'Oreal,S042,Amazon Store 42,US-East,84.55,0.0,No Promotion,272,10,Mon,Fall,0,14,28,0.294,medium,medium,profit_high
+P100551,Samsung Home Item,Home,Samsung,S049,Amazon Store 49,US-East,43.76,0.0,No Promotion,83,3,Fri,Spring,1,16,27,0.368,high,high,profit_high
+P100448,Samsung Home Item,Home,Samsung,S018,Amazon Store 18,Canada,20.09,0.26,Holiday,179,6,Wed,Summer,0,17,42,0.087,low,low,profit_low
+P100666,Apple Grocery Item,Grocery,Apple,S039,Amazon Store 39,UK,8.36,0.0,No Promotion,210,7,Mon,Summer,0,2,4,0.408,high,high,profit_high
+P100582,Nike Grocery Item,Grocery,Nike,S026,Amazon Store 26,US-East,29.41,0.0,No Promotion,328,11,Wed,Fall,0,43,83,0.279,medium,medium,profit_high
+P100048,AmazonBasics Electronics Item,Electronics,AmazonBasics,S014,Amazon Store 14,US-East,709.45,0.0,No Promotion,124,5,Sun,Spring,0,24,44,0.272,medium,medium,profit_high
+P100320,Apple Fashion Item,Fashion,Apple,S011,Amazon Store 11,US-West,241.29,0.0,No Promotion,113,4,Wed,Spring,0,19,24,0.43,high,high,profit_high
+P100952,LG Sports Item,Sports,LG,S040,Amazon Store 40,EU,310.87,0.39,Clearance,12,1,Mon,Winter,0,16,24,0.081,low,low,profit_low
+P101151,Sony Beauty Item,Beauty,Sony,S020,Amazon Store 20,Canada,98.03,0.0,No Promotion,126,5,Mon,Spring,0,16,26,0.374,high,high,profit_high
+P100192,Sony Grocery Item,Grocery,Sony,S049,Amazon Store 49,US-East,2.87,0.38,Flash Sale,53,2,Thu,Winter,0,31,61,-0.191,loss,loss,loss
+P101034,Dell Beauty Item,Beauty,Dell,S000,Amazon Store 0,Canada,101.45,0.0,No Promotion,331,12,Sat,Fall,0,17,24,0.321,high,high,profit_high
+P100965,Sony Home Item,Home,Sony,S016,Amazon Store 16,EU,184.07,0.32,Flash Sale,283,10,Sun,Fall,0,30,56,0.179,medium,medium,profit_low
+P100662,LG Electronics Item,Electronics,LG,S044,Amazon Store 44,Canada,1275.25,0.26,Holiday,140,5,Fri,Spring,0,14,32,0.271,medium,medium,profit_high
+P100826,LG Fashion Item,Fashion,LG,S012,Amazon Store 12,Canada,90.86,0.18,Seasonal,97,4,Fri,Spring,0,28,35,0.037,low,low,profit_low
+P100951,Dell Beauty Item,Beauty,Dell,S026,Amazon Store 26,US-East,85.55,0.0,No Promotion,5,1,Sun,Winter,0,17,38,0.375,high,high,profit_high
+P100774,Nike Electronics Item,Electronics,Nike,S032,Amazon Store 32,US-West,123.38,0.0,No Promotion,57,2,Wed,Winter,0,19,38,0.425,high,high,profit_high
+P100938,L'Oreal Grocery Item,Grocery,L'Oreal,S002,Amazon Store 2,US-East,11.19,0.0,No Promotion,334,12,Sun,Fall,0,6,7,0.311,high,medium,profit_high
+P100829,LG Beauty Item,Beauty,LG,S033,Amazon Store 33,UK,170.02,0.0,No Promotion,69,3,Tue,Winter,0,39,77,0.452,high,high,profit_high
+P100058,AmazonBasics Beauty Item,Beauty,AmazonBasics,S048,Amazon Store 48,EU,97.77,0.55,Clearance,118,4,Tue,Spring,0,21,41,-0.392,loss,loss,loss
+P101199,Samsung Beauty Item,Beauty,Samsung,S010,Amazon Store 10,US-East,34.69,0.0,No Promotion,59,2,Sat,Winter,0,71,117,0.394,high,high,profit_high
+P101137,Sony Electronics Item,Electronics,Sony,S020,Amazon Store 20,Canada,126.59,0.22,Flash Sale,33,2,Wed,Winter,0,49,75,0.226,medium,medium,profit_low
+P100564,L'Oreal Sports Item,Sports,L'Oreal,S018,Amazon Store 18,Canada,224.35,0.0,No Promotion,318,11,Thu,Fall,1,16,25,0.331,high,high,profit_high
+P101072,Sony Electronics Item,Electronics,Sony,S022,Amazon Store 22,UK,936.35,0.0,No Promotion,50,2,Mon,Winter,1,21,33,0.261,medium,medium,profit_high
+P100939,Adidas Home Item,Home,Adidas,S049,Amazon Store 49,US-East,457.31,0.41,Clearance,19,1,Wed,Winter,0,19,37,-0.291,loss,loss,loss
+P101006,Sony Fashion Item,Fashion,Sony,S010,Amazon Store 10,US-East,61.71,0.07,Seasonal,214,8,Fri,Summer,1,10,14,0.246,medium,medium,profit_low
+P100896,Sony Sports Item,Sports,Sony,S047,Amazon Store 47,Canada,125.86,0.0,No Promotion,197,7,Tue,Summer,0,10,19,0.441,high,high,profit_high
+P100819,L'Oreal Home Item,Home,L'Oreal,S049,Amazon Store 49,US-East,360.85,0.0,No Promotion,47,2,Tue,Winter,0,28,55,0.499,high,high,profit_high
+P100149,Dell Grocery Item,Grocery,Dell,S018,Amazon Store 18,Canada,13.82,0.39,Clearance,167,6,Tue,Spring,0,21,35,0.166,medium,medium,profit_low
+P100094,Sony Beauty Item,Beauty,Sony,S013,Amazon Store 13,US-East,123.72,0.17,Seasonal,289,10,Thu,Fall,0,16,37,0.075,low,low,profit_low
+P100845,HP Grocery Item,Grocery,HP,S006,Amazon Store 6,US-East,10.92,0.56,Clearance,141,5,Fri,Spring,1,15,20,-0.5,loss,loss,loss
+P100969,Samsung Electronics Item,Electronics,Samsung,S031,Amazon Store 31,EU,890.32,0.0,No Promotion,84,3,Thu,Spring,0,32,75,0.402,high,high,profit_high
+P100172,Apple Grocery Item,Grocery,Apple,S047,Amazon Store 47,Canada,10.25,0.19,Holiday,182,7,Mon,Summer,0,14,34,0.252,medium,medium,profit_high
+P100630,LG Sports Item,Sports,LG,S009,Amazon Store 9,EU,54.11,0.09,Seasonal,79,3,Wed,Winter,0,71,161,0.443,high,high,profit_high
+P100754,Nike Beauty Item,Beauty,Nike,S029,Amazon Store 29,US-East,96.64,0.0,No Promotion,215,8,Wed,Summer,1,5,7,0.289,medium,medium,profit_high
+P100928,L'Oreal Sports Item,Sports,L'Oreal,S043,Amazon Store 43,US-West,200.56,0.13,Seasonal,14,1,Sun,Winter,0,18,35,0.362,high,high,profit_high
+P101016,Apple Home Item,Home,Apple,S047,Amazon Store 47,Canada,466.69,0.31,Flash Sale,215,8,Tue,Summer,0,7,10,0.063,low,low,profit_low
+P100961,Sony Home Item,Home,Sony,S000,Amazon Store 0,Canada,196.51,0.52,Clearance,128,5,Sun,Spring,0,17,20,-0.046,loss,loss,loss
+P101038,Samsung Grocery Item,Grocery,Samsung,S006,Amazon Store 6,US-East,39.81,0.0,No Promotion,310,11,Tue,Fall,1,15,23,0.385,high,high,profit_high
+P100519,AmazonBasics Home Item,Home,AmazonBasics,S003,Amazon Store 3,US-East,101.88,0.15,Seasonal,248,9,Mon,Summer,0,40,98,0.376,high,high,profit_high
+P100869,L'Oreal Electronics Item,Electronics,L'Oreal,S011,Amazon Store 11,US-West,197.46,0.18,Seasonal,29,1,Thu,Winter,0,6,10,0.378,high,high,profit_high
+P100081,AmazonBasics Grocery Item,Grocery,AmazonBasics,S044,Amazon Store 44,Canada,20.17,0.0,No Promotion,280,10,Sat,Fall,0,102,249,0.459,high,high,profit_high
+P100130,Nike Fashion Item,Fashion,Nike,S043,Amazon Store 43,US-West,132.82,0.13,Seasonal,338,12,Sat,Fall,0,18,41,0.279,medium,medium,profit_high
+P101195,Nike Electronics Item,Electronics,Nike,S011,Amazon Store 11,US-West,764.25,0.0,No Promotion,319,11,Sat,Fall,0,26,35,0.375,high,high,profit_high
+P100861,AmazonBasics Grocery Item,Grocery,AmazonBasics,S037,Amazon Store 37,EU,31.75,0.0,No Promotion,202,7,Fri,Summer,0,6,7,0.455,high,high,profit_high
+P100691,Samsung Beauty Item,Beauty,Samsung,S010,Amazon Store 10,US-East,15.88,0.06,Seasonal,361,13,Mon,Fall,0,14,34,0.182,medium,medium,profit_low
+P100380,Samsung Grocery Item,Grocery,Samsung,S049,Amazon Store 49,US-East,6.65,0.0,No Promotion,57,2,Wed,Winter,0,17,33,0.423,high,high,profit_high
+P101137,Sony Electronics Item,Electronics,Sony,S004,Amazon Store 4,EU,126.59,0.14,Seasonal,218,8,Wed,Summer,0,22,44,0.077,low,low,profit_low
+P100055,Adidas Sports Item,Sports,Adidas,S035,Amazon Store 35,US-West,38.34,0.0,No Promotion,62,3,Thu,Winter,0,42,86,0.287,medium,medium,profit_high
+P101158,Nike Electronics Item,Electronics,Nike,S044,Amazon Store 44,Canada,918.41,0.06,Seasonal,157,6,Sun,Spring,0,14,27,0.32,high,high,profit_high
+P100592,HP Electronics Item,Electronics,HP,S030,Amazon Store 30,US-East,1020.98,0.17,Holiday,202,7,Mon,Summer,0,19,35,0.272,medium,medium,profit_high
+P100358,AmazonBasics Fashion Item,Fashion,AmazonBasics,S047,Amazon Store 47,Canada,142.57,0.37,Flash Sale,17,1,Fri,Winter,1,21,42,-0.16,loss,loss,loss
+P100929,LG Electronics Item,Electronics,LG,S020,Amazon Store 20,Canada,902.43,0.49,Clearance,322,11,Mon,Fall,0,16,22,-0.033,loss,loss,loss
+P100633,HP Fashion Item,Fashion,HP,S047,Amazon Store 47,Canada,183.23,0.0,No Promotion,6,1,Mon,Winter,0,3,7,0.451,high,high,profit_high
+P100298,L'Oreal Grocery Item,Grocery,L'Oreal,S030,Amazon Store 30,US-East,39.26,0.4,Flash Sale,58,2,Thu,Winter,0,64,149,-0.099,loss,loss,loss
+P100045,L'Oreal Electronics Item,Electronics,L'Oreal,S047,Amazon Store 47,Canada,1333.09,0.16,Seasonal,325,11,Fri,Fall,0,23,28,0.092,low,low,profit_low
+P100732,Samsung Beauty Item,Beauty,Samsung,S027,Amazon Store 27,UK,151.71,0.08,Seasonal,318,11,Sat,Fall,0,80,121,0.318,high,high,profit_high
+P100771,Samsung Sports Item,Sports,Samsung,S047,Amazon Store 47,Canada,300.26,0.17,Seasonal,169,6,Wed,Spring,0,20,41,0.36,high,high,profit_high
+P101145,LG Electronics Item,Electronics,LG,S046,Amazon Store 46,EU,147.65,0.0,No Promotion,82,3,Tue,Spring,1,22,49,0.207,medium,medium,profit_low
+P100685,LG Beauty Item,Beauty,LG,S048,Amazon Store 48,EU,94.38,0.27,Holiday,219,8,Sun,Summer,0,9,13,0.22,medium,medium,profit_low
+P101180,AmazonBasics Sports Item,Sports,AmazonBasics,S029,Amazon Store 29,US-East,151.36,0.35,Flash Sale,177,6,Sat,Summer,0,46,101,0.227,medium,medium,profit_low
+P100356,Nike Sports Item,Sports,Nike,S032,Amazon Store 32,US-West,361.36,0.22,Flash Sale,204,7,Fri,Summer,0,6,12,-0.003,loss,loss,loss
+P100166,AmazonBasics Grocery Item,Grocery,AmazonBasics,S045,Amazon Store 45,UK,19.87,0.17,Seasonal,71,3,Wed,Winter,1,19,22,0.138,low,low,profit_low
+P100656,HP Fashion Item,Fashion,HP,S008,Amazon Store 8,US-West,124.97,0.39,Flash Sale,266,9,Sat,Fall,0,20,47,-0.289,loss,loss,loss
+P100294,Dell Electronics Item,Electronics,Dell,S029,Amazon Store 29,US-East,673.55,0.12,Seasonal,98,4,Thu,Spring,0,8,10,0.42,high,high,profit_high
+P100308,LG Home Item,Home,LG,S048,Amazon Store 48,EU,87.66,0.0,No Promotion,345,12,Sun,Fall,0,27,63,0.251,medium,medium,profit_high
+P100718,Sony Electronics Item,Electronics,Sony,S032,Amazon Store 32,US-West,542.67,0.0,No Promotion,291,10,Fri,Fall,0,27,47,0.479,high,high,profit_high
+P100369,AmazonBasics Beauty Item,Beauty,AmazonBasics,S005,Amazon Store 5,UK,149.2,0.0,No Promotion,208,7,Fri,Summer,1,21,51,0.325,high,high,profit_high
+P100153,L'Oreal Sports Item,Sports,L'Oreal,S017,Amazon Store 17,US-East,282.96,0.15,Seasonal,2,1,Wed,Winter,0,21,29,0.195,medium,medium,profit_low
+P101102,Apple Sports Item,Sports,Apple,S043,Amazon Store 43,US-West,397.17,0.0,No Promotion,124,5,Wed,Spring,0,23,28,0.22,medium,medium,profit_low
+P101187,L'Oreal Home Item,Home,L'Oreal,S029,Amazon Store 29,US-East,202.73,0.1,Seasonal,280,10,Mon,Fall,1,16,31,0.413,high,high,profit_high
+P100337,Samsung Home Item,Home,Samsung,S001,Amazon Store 1,US-East,65.19,0.29,Flash Sale,74,3,Mon,Winter,0,17,38,0.046,low,low,profit_low
+P100499,Sony Beauty Item,Beauty,Sony,S021,Amazon Store 21,UK,159.94,0.47,Clearance,166,6,Fri,Spring,0,18,38,-0.05,loss,loss,loss
+P100898,Adidas Fashion Item,Fashion,Adidas,S007,Amazon Store 7,US-East,195.79,0.0,No Promotion,22,1,Tue,Winter,0,20,43,0.462,high,high,profit_high
+P100409,AmazonBasics Beauty Item,Beauty,AmazonBasics,S021,Amazon Store 21,UK,26.56,0.33,Flash Sale,154,6,Thu,Spring,0,14,23,0.098,low,low,profit_low
+P100922,Sony Home Item,Home,Sony,S036,Amazon Store 36,US-East,466.79,0.31,Clearance,295,10,Wed,Fall,0,22,40,0.152,medium,low,profit_low
+P100143,Sony Sports Item,Sports,Sony,S035,Amazon Store 35,US-West,303.14,0.0,No Promotion,219,8,Mon,Summer,0,12,25,0.419,high,high,profit_high
+P100083,Apple Grocery Item,Grocery,Apple,S026,Amazon Store 26,US-East,14.24,0.21,Flash Sale,157,6,Thu,Spring,0,19,46,0.02,low,low,profit_low

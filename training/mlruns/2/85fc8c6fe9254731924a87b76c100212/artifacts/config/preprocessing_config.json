@@ -1,0 +1,54 @@
+{
+  "feature_names": [
+    "product_id",
+    "category",
+    "brand",
+    "store_id",
+    "store_location",
+    "base_price",
+    "discount_rate",
+    "promotion_type",
+    "day_of_year",
+    "month",
+    "day_of_week",
+    "season",
+    "is_holiday",
+    "avg_units_sold_30d",
+    "avg_customers_30d"
+  ],
+  "categorical_features": [
+    "product_id",
+    "category",
+    "brand",
+    "store_id",
+    "store_location",
+    "promotion_type",
+    "day_of_week",
+    "season"
+  ],
+  "categorical_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    7,
+    10,
+    11
+  ],
+  "class_names": [
+    "loss",
+    "profit_high",
+    "profit_low"
+  ],
+  "class_weights": {
+    "loss": 1.9225487503433123,
+    "profit_high": 0.6804704967434626,
+    "profit_low": 0.9898190045248869
+  },
+  "profit_boundaries": {
+    "loss": "< 0",
+    "profit_low": "0 to 0.25",
+    "profit_high": "> 0.25"
+  }
+}

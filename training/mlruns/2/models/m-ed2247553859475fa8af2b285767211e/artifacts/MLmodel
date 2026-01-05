@@ -1,0 +1,22 @@
+artifact_path: file:///e:/MLOPS/training/mlruns/2/models/m-ed2247553859475fa8af2b285767211e/artifacts
+flavors:
+  catboost:
+    catboost_version: 1.2.8
+    code: null
+    data: model.cb
+    model_type: CatBoostClassifier
+    save_format: cbm
+  python_function:
+    data: model.cb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.catboost
+    python_version: 3.11.4
+mlflow_version: 3.8.0
+model_id: m-ed2247553859475fa8af2b285767211e
+model_size_bytes: 4675484
+model_uuid: m-ed2247553859475fa8af2b285767211e
+prompts: null
+run_id: 85fc8c6fe9254731924a87b76c100212
+utc_time_created: '2025-12-31 17:58:03.424197'

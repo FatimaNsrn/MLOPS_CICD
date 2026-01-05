@@ -1,0 +1,1501 @@
+product_id,store_id,category,brand,season,day_of_week,promotion_type,base_price,discount,avg_units_sold,avg_customer_inflow,is_holiday,profit_margin
+P1330,S110,Sports,BrandD,Fall,Wed,BOGO,350,0.15,19,56,0,0.205
+P1160,S111,Home,BrandE,Fall,Mon,None,80,0.3,42,63,0,-0.076
+P1566,S102,Sports,BrandC,Summer,Fri,None,350,0.05,64,142,0,0.306
+P1345,S101,Beauty,BrandD,Summer,Thu,Flash Sale,80,0.0,64,168,0,0.391
+P1476,S117,Home,BrandD,Spring,Tue,BOGO,350,0.1,40,74,1,0.18
+P1337,S123,Home,BrandA,Fall,Thu,Seasonal,350,0.3,66,141,0,0.093
+P1062,S110,Clothing,BrandA,Fall,Wed,Flash Sale,120,0.2,69,105,0,0.16
+P1032,S122,Sports,BrandC,Fall,Sat,Flash Sale,120,0.05,45,149,0,0.218
+P1392,S114,Home,BrandB,Fall,Fri,Flash Sale,50,0.2,51,149,0,0.167
+P1484,S122,Sports,BrandC,Winter,Thu,None,350,0.0,56,147,0,0.321
+P1027,S119,Clothing,BrandB,Summer,Thu,None,50,0.1,32,107,0,0.237
+P1258,S138,Clothing,BrandA,Spring,Fri,None,20,0.0,31,72,0,0.296
+P1563,S111,Home,BrandC,Winter,Fri,None,80,0.1,36,91,1,0.24
+P1224,S100,Clothing,BrandB,Winter,Thu,BOGO,50,0.0,6,15,1,0.437
+P1197,S121,Clothing,BrandA,Winter,Thu,Flash Sale,350,0.15,59,178,0,0.273
+P1345,S102,Clothing,BrandD,Fall,Sun,Seasonal,120,0.1,24,51,1,0.381
+P1297,S134,Beauty,BrandB,Fall,Mon,Seasonal,350,0.05,5,14,0,0.272
+P1159,S108,Electronics,BrandC,Summer,Wed,Seasonal,35,0.0,52,178,1,0.295
+P1111,S124,Clothing,BrandA,Winter,Tue,Seasonal,20,0.15,79,266,0,0.194
+P1160,S103,Electronics,BrandE,Fall,Thu,Seasonal,35,0.3,39,109,0,0.204
+P1021,S129,Sports,BrandC,Spring,Wed,Flash Sale,350,0.1,21,44,0,0.337
+P1515,S134,Electronics,BrandA,Fall,Thu,BOGO,200,0.0,32,90,1,0.282
+P1160,S102,Home,BrandA,Spring,Sun,BOGO,120,0.3,41,137,0,0.078
+P1154,S101,Home,BrandA,Fall,Mon,None,200,0.05,36,102,0,0.369
+P1019,S100,Beauty,BrandC,Summer,Sun,Seasonal,350,0.2,46,143,0,0.125
+P1124,S121,Home,BrandB,Spring,Mon,Seasonal,350,0.3,55,133,0,0.175
+P1349,S134,Beauty,BrandE,Spring,Thu,BOGO,350,0.3,64,137,0,0.014
+P1116,S122,Electronics,BrandD,Winter,Mon,BOGO,20,0.1,62,102,1,0.379
+P1446,S104,Sports,BrandC,Fall,Tue,Seasonal,350,0.05,52,97,0,0.232
+P1093,S104,Beauty,BrandB,Spring,Fri,Flash Sale,200,0.0,33,57,0,0.508
+P1441,S131,Electronics,BrandE,Winter,Thu,Seasonal,200,0.3,27,43,0,-0.067
+P1379,S132,Electronics,BrandE,Summer,Wed,None,350,0.05,36,121,0,0.316
+P1417,S106,Beauty,BrandB,Winter,Tue,None,20,0.0,44,145,1,0.396
+P1456,S123,Clothing,BrandA,Summer,Thu,BOGO,80,0.0,25,85,0,0.347
+P1272,S119,Electronics,BrandE,Summer,Wed,None,350,0.3,41,81,0,-0.006
+P1383,S118,Home,BrandE,Winter,Wed,Seasonal,120,0.0,23,38,0,0.41
+P1397,S130,Home,BrandE,Summer,Sun,None,50,0.2,57,175,0,0.115
+P1252,S137,Sports,BrandB,Winter,Tue,Flash Sale,35,0.15,13,39,0,0.181
+P1300,S103,Beauty,BrandD,Summer,Wed,None,120,0.2,41,80,0,0.176
+P1450,S112,Home,BrandD,Spring,Tue,Seasonal,350,0.1,78,258,0,0.359
+P1368,S124,Electronics,BrandE,Spring,Tue,Seasonal,120,0.0,43,128,1,0.33
+P1202,S136,Beauty,BrandC,Summer,Thu,None,120,0.2,51,167,0,0.193
+P1470,S110,Beauty,BrandB,Fall,Sat,Seasonal,20,0.0,18,37,0,0.224
+P1177,S127,Beauty,BrandE,Winter,Thu,Seasonal,120,0.05,40,97,0,0.392
+P1557,S134,Sports,BrandB,Summer,Fri,Flash Sale,350,0.0,77,163,1,0.26
+P1064,S117,Electronics,BrandC,Winter,Tue,Flash Sale,35,0.3,9,13,0,0.121
+P1517,S127,Electronics,BrandE,Summer,Fri,BOGO,50,0.1,53,168,1,0.237
+P1144,S120,Electronics,BrandA,Summer,Fri,None,350,0.2,57,193,0,0.082
+P1437,S102,Clothing,BrandB,Fall,Mon,BOGO,20,0.0,36,57,1,0.396
+P1206,S136,Sports,BrandB,Summer,Wed,Flash Sale,200,0.3,61,163,0,0.064
+P1307,S137,Electronics,BrandD,Spring,Sun,BOGO,80,0.05,42,114,1,0.261
+P1507,S119,Sports,BrandB,Spring,Fri,BOGO,120,0.2,8,19,0,0.105
+P1359,S103,Electronics,BrandC,Fall,Wed,Flash Sale,50,0.1,79,130,0,0.371
+P1533,S120,Electronics,BrandE,Winter,Thu,BOGO,35,0.2,55,86,1,0.242
+P1055,S129,Clothing,BrandE,Winter,Tue,Seasonal,20,0.3,49,105,0,0.247
+P1525,S125,Beauty,BrandB,Winter,Tue,BOGO,20,0.1,56,107,0,0.301
+P1014,S124,Sports,BrandD,Spring,Sun,None,50,0.1,27,68,0,0.267
+P1024,S103,Home,BrandC,Winter,Fri,BOGO,200,0.05,48,94,0,0.32
+P1517,S125,Home,BrandC,Fall,Wed,None,350,0.3,38,99,0,-0.014
+P1502,S103,Clothing,BrandA,Summer,Wed,Flash Sale,20,0.0,57,97,0,0.451
+P1503,S137,Clothing,BrandA,Spring,Sun,Flash Sale,120,0.15,28,48,0,0.242
+P1224,S119,Electronics,BrandD,Summer,Mon,BOGO,50,0.2,48,91,0,0.093
+P1009,S104,Home,BrandD,Spring,Fri,Seasonal,200,0.2,15,50,0,0.18
+P1549,S134,Electronics,BrandE,Spring,Thu,Seasonal,20,0.2,77,232,0,0.201
+P1571,S128,Clothing,BrandA,Winter,Sat,Seasonal,120,0.1,13,24,0,0.31
+P1573,S103,Electronics,BrandE,Spring,Mon,BOGO,120,0.2,9,17,0,0.165
+P1144,S132,Home,BrandE,Fall,Wed,Flash Sale,350,0.3,36,87,0,0.129
+P1499,S114,Sports,BrandA,Fall,Sat,Flash Sale,200,0.1,11,32,0,0.285
+P1117,S137,Sports,BrandD,Winter,Thu,Seasonal,120,0.3,61,129,0,0.189
+P1410,S130,Clothing,BrandC,Fall,Thu,BOGO,120,0.2,51,118,0,0.132
+P1345,S111,Home,BrandE,Fall,Sat,BOGO,120,0.15,15,51,0,0.26
+P1323,S104,Sports,BrandB,Winter,Thu,Flash Sale,350,0.15,47,158,0,0.176
+P1419,S122,Electronics,BrandA,Summer,Sat,Flash Sale,200,0.1,33,56,0,0.183
+P1435,S125,Electronics,BrandC,Summer,Thu,None,350,0.2,51,82,1,0.214
+P1178,S123,Electronics,BrandD,Spring,Fri,Seasonal,200,0.05,11,24,0,0.221
+P1048,S106,Electronics,BrandD,Winter,Mon,Seasonal,120,0.1,26,50,0,0.334
+P1317,S131,Sports,BrandA,Winter,Fri,BOGO,80,0.2,53,111,0,0.194
+P1193,S127,Electronics,BrandB,Spring,Sat,Flash Sale,50,0.05,5,15,0,0.268
+P1379,S132,Beauty,BrandB,Summer,Fri,Seasonal,20,0.2,59,200,0,0.244
+P1238,S136,Clothing,BrandC,Winter,Thu,Flash Sale,350,0.1,63,158,0,0.217
+P1468,S113,Home,BrandB,Summer,Mon,Flash Sale,50,0.3,36,115,0,0.026
+P1522,S101,Clothing,BrandD,Fall,Fri,None,120,0.1,40,111,0,0.202
+P1157,S122,Electronics,BrandB,Summer,Mon,BOGO,200,0.0,57,119,0,0.244
+P1234,S103,Home,BrandB,Winter,Fri,BOGO,35,0.2,29,58,0,0.29
+P1152,S137,Home,BrandD,Summer,Fri,BOGO,50,0.3,22,56,0,-0.041
+P1267,S106,Home,BrandE,Winter,Tue,None,50,0.0,35,113,0,0.33
+P1112,S138,Clothing,BrandB,Summer,Sun,Seasonal,35,0.3,68,150,1,-0.066
+P1243,S116,Clothing,BrandE,Summer,Tue,None,120,0.0,40,103,0,0.454
+P1024,S138,Clothing,BrandC,Spring,Fri,Seasonal,120,0.0,77,169,0,0.39
+P1016,S109,Electronics,BrandA,Summer,Thu,BOGO,200,0.3,16,35,1,0.236
+P1488,S125,Home,BrandA,Summer,Tue,None,50,0.2,74,256,0,0.127
+P1497,S122,Sports,BrandB,Summer,Sat,Seasonal,350,0.3,11,23,0,-0.019
+P1130,S136,Clothing,BrandB,Summer,Sun,Seasonal,35,0.1,21,58,0,0.282
+P1492,S101,Clothing,BrandB,Spring,Sat,Flash Sale,20,0.15,29,86,1,0.313
+P1238,S109,Electronics,BrandD,Winter,Mon,BOGO,120,0.05,36,121,0,0.484
+P1292,S124,Electronics,BrandE,Spring,Sun,None,120,0.3,34,108,0,-0.01
+P1439,S123,Clothing,BrandE,Spring,Mon,Flash Sale,20,0.15,16,54,1,0.182
+P1365,S109,Clothing,BrandB,Winter,Tue,None,50,0.15,67,131,0,0.112
+P1061,S116,Clothing,BrandC,Spring,Fri,Seasonal,50,0.3,9,14,0,-0.02
+P1322,S127,Sports,BrandA,Summer,Mon,BOGO,20,0.0,72,191,1,0.415
+P1453,S136,Beauty,BrandE,Fall,Fri,None,20,0.0,9,26,1,0.387
+P1039,S126,Sports,BrandE,Winter,Sat,Seasonal,120,0.3,62,163,0,0.028
+P1169,S135,Clothing,BrandD,Summer,Fri,Flash Sale,80,0.0,63,203,1,0.323
+P1362,S129,Home,BrandD,Spring,Sat,None,20,0.1,35,110,0,0.386
+P1447,S123,Sports,BrandC,Fall,Sat,Flash Sale,350,0.05,17,46,0,0.174
+P1036,S128,Beauty,BrandD,Fall,Thu,BOGO,35,0.0,67,153,1,0.436
+P1226,S111,Sports,BrandC,Winter,Sat,Flash Sale,20,0.15,26,75,0,0.224
+P1284,S103,Electronics,BrandC,Winter,Mon,Flash Sale,50,0.1,62,93,0,0.411
+P1538,S102,Electronics,BrandD,Fall,Thu,None,120,0.2,79,153,1,0.326
+P1506,S100,Home,BrandD,Spring,Sun,BOGO,120,0.1,10,30,0,0.33
+P1429,S124,Electronics,BrandE,Winter,Sun,Flash Sale,20,0.0,28,62,0,0.292
+P1377,S102,Beauty,BrandA,Spring,Sat,Flash Sale,80,0.1,68,142,0,0.185
+P1116,S101,Clothing,BrandE,Winter,Fri,BOGO,80,0.15,13,24,0,0.241
+P1101,S107,Clothing,BrandC,Fall,Mon,None,35,0.3,42,87,0,-0.005
+P1588,S125,Home,BrandB,Spring,Tue,BOGO,200,0.3,24,52,0,0.023
+P1008,S105,Electronics,BrandA,Spring,Thu,Seasonal,35,0.15,53,180,1,0.326
+P1389,S121,Home,BrandC,Summer,Mon,Seasonal,80,0.3,66,179,0,0.095
+P1300,S118,Beauty,BrandE,Fall,Fri,Flash Sale,50,0.05,16,31,0,0.447
+P1034,S128,Electronics,BrandD,Winter,Sat,None,50,0.15,74,217,0,0.265
+P1531,S123,Home,BrandA,Summer,Mon,Seasonal,120,0.15,41,89,0,0.283
+P1236,S117,Sports,BrandA,Summer,Tue,Seasonal,35,0.15,70,188,0,0.14
+P1292,S104,Sports,BrandA,Spring,Sat,Seasonal,200,0.05,48,107,0,0.272
+P1162,S136,Sports,BrandA,Fall,Thu,Seasonal,200,0.0,6,10,0,0.293
+P1360,S100,Sports,BrandD,Fall,Wed,Seasonal,350,0.1,14,23,0,0.302
+P1496,S127,Beauty,BrandC,Winter,Thu,BOGO,200,0.15,32,50,1,0.17
+P1034,S105,Sports,BrandE,Summer,Fri,None,20,0.2,24,38,0,0.215
+P1222,S122,Beauty,BrandD,Summer,Sat,None,200,0.15,24,83,0,0.153
+P1351,S137,Sports,BrandB,Winter,Sun,Flash Sale,35,0.05,12,41,1,0.412
+P1344,S103,Electronics,BrandA,Summer,Sun,Seasonal,35,0.3,21,66,0,-0.045
+P1574,S108,Electronics,BrandA,Winter,Fri,None,120,0.0,66,185,0,0.258
+P1453,S133,Home,BrandE,Winter,Sun,Flash Sale,350,0.0,79,257,1,0.405
+P1064,S111,Home,BrandE,Summer,Thu,None,20,0.3,58,162,0,0.084
+P1002,S120,Home,BrandB,Spring,Thu,None,20,0.0,39,76,0,0.485
+P1299,S135,Clothing,BrandB,Fall,Wed,Flash Sale,20,0.15,9,20,0,0.247
+P1323,S120,Sports,BrandC,Spring,Sat,None,350,0.1,51,83,0,0.141
+P1143,S135,Home,BrandB,Winter,Fri,Seasonal,120,0.15,31,104,0,0.274
+P1311,S135,Beauty,BrandD,Spring,Sun,BOGO,200,0.1,11,31,0,0.404
+P1117,S120,Beauty,BrandA,Spring,Mon,Flash Sale,120,0.05,51,173,0,0.301
+P1049,S123,Clothing,BrandD,Fall,Sun,BOGO,35,0.0,46,151,0,0.402
+P1560,S134,Beauty,BrandB,Winter,Sun,None,50,0.15,78,187,0,0.194
+P1253,S124,Home,BrandC,Summer,Fri,BOGO,120,0.1,75,194,0,0.381
+P1279,S118,Beauty,BrandB,Spring,Tue,Seasonal,200,0.2,43,126,0,0.258
+P1560,S101,Beauty,BrandE,Fall,Wed,Seasonal,200,0.15,40,75,0,0.257
+P1258,S121,Home,BrandD,Spring,Sat,None,200,0.05,71,182,1,0.316
+P1302,S115,Home,BrandA,Summer,Thu,None,350,0.3,12,31,0,0.192
+P1103,S104,Beauty,BrandD,Winter,Mon,BOGO,80,0.1,20,45,0,0.374
+P1508,S113,Beauty,BrandA,Summer,Tue,None,200,0.3,76,228,0,0.193
+P1406,S125,Beauty,BrandB,Summer,Sat,Flash Sale,120,0.05,77,193,0,0.265
+P1215,S129,Clothing,BrandD,Spring,Mon,Flash Sale,350,0.3,64,204,0,0.142
+P1265,S124,Home,BrandA,Winter,Sat,None,35,0.1,6,11,1,0.211
+P1536,S114,Beauty,BrandE,Fall,Thu,Seasonal,200,0.0,58,183,0,0.363
+P1446,S105,Sports,BrandC,Spring,Tue,Seasonal,80,0.2,35,87,0,0.213
+P1456,S122,Clothing,BrandA,Summer,Fri,None,350,0.1,9,27,0,0.291
+P1259,S103,Electronics,BrandE,Summer,Thu,Seasonal,200,0.1,11,31,0,0.365
+P1482,S106,Clothing,BrandD,Spring,Sat,Flash Sale,80,0.15,42,98,0,0.318
+P1245,S137,Sports,BrandB,Summer,Tue,Seasonal,200,0.2,59,137,0,0.222
+P1394,S120,Beauty,BrandE,Spring,Sat,Seasonal,20,0.2,57,176,1,0.043
+P1553,S112,Electronics,BrandA,Fall,Mon,Seasonal,80,0.05,56,180,0,0.338
+P1231,S120,Beauty,BrandC,Summer,Tue,Seasonal,20,0.05,64,105,1,0.36
+P1580,S131,Beauty,BrandA,Summer,Fri,Seasonal,20,0.0,64,153,0,0.278
+P1365,S135,Clothing,BrandD,Summer,Wed,Flash Sale,20,0.1,5,8,0,0.349
+P1351,S107,Home,BrandD,Winter,Sun,Seasonal,50,0.1,62,105,0,0.281
+P1168,S124,Home,BrandB,Spring,Fri,Seasonal,20,0.0,70,198,0,0.422
+P1287,S131,Beauty,BrandB,Summer,Tue,Flash Sale,35,0.3,17,45,0,-0.026
+P1413,S119,Sports,BrandD,Fall,Wed,BOGO,35,0.0,29,65,0,0.307
+P1232,S117,Sports,BrandE,Spring,Fri,BOGO,120,0.1,36,76,0,0.182
+P1465,S101,Sports,BrandE,Summer,Thu,Flash Sale,200,0.15,79,169,1,0.185
+P1420,S132,Clothing,BrandC,Summer,Fri,BOGO,350,0.1,27,85,1,0.175
+P1448,S103,Clothing,BrandB,Spring,Wed,None,350,0.0,12,29,0,0.473
+P1392,S135,Home,BrandB,Spring,Sat,Seasonal,200,0.1,31,89,0,0.278
+P1069,S118,Sports,BrandB,Fall,Sun,None,200,0.0,38,114,0,0.333
+P1404,S109,Beauty,BrandD,Winter,Fri,Seasonal,35,0.3,30,68,0,0.111
+P1535,S133,Home,BrandC,Summer,Thu,Seasonal,350,0.15,18,53,0,0.35
+P1313,S137,Sports,BrandD,Fall,Wed,Seasonal,350,0.3,26,75,0,-0.029
+P1117,S132,Electronics,BrandD,Fall,Sun,Flash Sale,200,0.0,59,116,0,0.399
+P1504,S109,Home,BrandC,Winter,Wed,None,350,0.3,79,235,0,-0.031
+P1348,S136,Beauty,BrandA,Winter,Tue,Seasonal,200,0.2,74,187,0,0.269
+P1312,S135,Electronics,BrandD,Fall,Thu,None,200,0.05,8,12,0,0.225
+P1399,S130,Home,BrandA,Winter,Sat,Seasonal,20,0.15,34,70,0,0.369
+P1518,S105,Home,BrandC,Fall,Sun,Seasonal,80,0.1,61,133,1,0.298
+P1304,S118,Clothing,BrandA,Winter,Thu,None,35,0.05,18,53,0,0.238
+P1597,S132,Electronics,BrandE,Winter,Tue,Seasonal,20,0.05,72,168,0,0.365
+P1516,S101,Electronics,BrandB,Spring,Tue,Seasonal,20,0.3,53,137,0,0.159
+P1242,S131,Sports,BrandD,Spring,Sun,Seasonal,120,0.3,44,75,0,0.025
+P1096,S134,Beauty,BrandA,Summer,Tue,Flash Sale,200,0.2,18,35,0,0.226
+P1475,S135,Sports,BrandE,Fall,Sun,None,50,0.1,16,40,0,0.323
+P1258,S126,Home,BrandC,Fall,Sat,None,200,0.05,46,110,0,0.315
+P1259,S129,Clothing,BrandA,Fall,Wed,BOGO,350,0.2,36,101,0,0.241
+P1536,S102,Electronics,BrandD,Winter,Thu,BOGO,20,0.2,25,73,0,0.206
+P1485,S105,Clothing,BrandD,Fall,Mon,Flash Sale,200,0.2,65,141,1,0.249
+P1276,S127,Home,BrandA,Winter,Wed,Seasonal,80,0.15,77,170,1,0.222
+P1272,S104,Beauty,BrandC,Spring,Sun,Flash Sale,50,0.05,62,169,0,0.359
+P1000,S107,Clothing,BrandD,Spring,Mon,Flash Sale,80,0.2,20,34,0,0.248
+P1459,S116,Electronics,BrandC,Fall,Fri,Flash Sale,350,0.2,61,128,0,0.119
+P1500,S107,Clothing,BrandC,Spring,Sun,BOGO,20,0.3,27,49,0,0.064
+P1082,S102,Home,BrandC,Winter,Thu,Seasonal,20,0.0,44,131,1,0.249
+P1464,S129,Electronics,BrandA,Fall,Thu,None,200,0.0,23,74,0,0.439
+P1067,S127,Home,BrandA,Winter,Sat,BOGO,120,0.1,63,186,1,0.311
+P1324,S119,Sports,BrandC,Fall,Mon,None,350,0.2,66,203,0,0.306
+P1479,S100,Sports,BrandD,Spring,Thu,BOGO,120,0.0,72,233,0,0.472
+P1504,S128,Clothing,BrandD,Summer,Sun,Seasonal,20,0.1,30,54,0,0.349
+P1161,S126,Electronics,BrandA,Fall,Sun,BOGO,200,0.15,49,168,0,0.31
+P1361,S100,Electronics,BrandE,Winter,Mon,Flash Sale,20,0.05,21,33,0,0.288
+P1048,S107,Clothing,BrandD,Fall,Mon,BOGO,50,0.2,60,160,0,0.187
+P1548,S116,Sports,BrandC,Summer,Sun,Flash Sale,120,0.0,68,171,1,0.386
+P1556,S100,Beauty,BrandC,Fall,Fri,None,120,0.1,23,55,0,0.202
+P1173,S122,Sports,BrandA,Summer,Thu,BOGO,120,0.0,49,143,0,0.28
+P1411,S139,Beauty,BrandA,Winter,Thu,BOGO,80,0.3,37,89,0,0.121
+P1209,S108,Electronics,BrandD,Summer,Thu,BOGO,20,0.05,67,187,0,0.292
+P1257,S116,Electronics,BrandD,Summer,Wed,None,35,0.2,42,132,0,0.092
+P1276,S117,Beauty,BrandC,Winter,Sun,None,350,0.05,66,172,0,0.374
+P1194,S127,Beauty,BrandA,Summer,Sun,Seasonal,35,0.3,64,124,1,0.143
+P1006,S103,Sports,BrandA,Winter,Sun,Seasonal,35,0.1,61,94,0,0.343
+P1478,S126,Clothing,BrandA,Winter,Sat,Seasonal,35,0.15,22,61,0,0.365
+P1375,S123,Clothing,BrandC,Summer,Fri,Seasonal,35,0.15,60,208,0,0.222
+P1261,S114,Sports,BrandB,Winter,Tue,None,200,0.3,68,158,0,0.114
+P1277,S103,Sports,BrandE,Winter,Mon,None,80,0.2,39,127,0,0.116
+P1108,S120,Beauty,BrandE,Fall,Wed,Flash Sale,200,0.2,55,121,0,0.061
+P1434,S116,Clothing,BrandD,Spring,Sat,None,20,0.15,67,119,0,0.242
+P1163,S118,Clothing,BrandE,Spring,Wed,BOGO,50,0.2,12,18,0,0.264
+P1557,S111,Electronics,BrandC,Summer,Tue,Seasonal,80,0.3,25,74,0,0.062
+P1416,S123,Clothing,BrandC,Fall,Mon,Flash Sale,80,0.3,59,132,0,0.121
+P1510,S108,Beauty,BrandE,Winter,Mon,None,50,0.2,55,148,0,0.161
+P1493,S130,Home,BrandE,Spring,Wed,Flash Sale,50,0.3,71,170,0,0.11
+P1056,S129,Clothing,BrandC,Spring,Tue,None,35,0.3,25,55,0,-0.042
+P1548,S112,Sports,BrandD,Fall,Mon,Flash Sale,200,0.1,69,150,1,0.228
+P1413,S130,Clothing,BrandC,Fall,Wed,BOGO,50,0.05,67,112,0,0.314
+P1527,S101,Electronics,BrandB,Spring,Thu,Seasonal,120,0.05,49,167,0,0.289
+P1214,S113,Clothing,BrandE,Summer,Fri,Flash Sale,35,0.05,17,48,0,0.368
+P1312,S124,Electronics,BrandB,Spring,Thu,Seasonal,20,0.3,57,89,0,0.184
+P1029,S103,Sports,BrandC,Summer,Tue,Seasonal,80,0.05,18,43,0,0.339
+P1440,S130,Electronics,BrandB,Winter,Tue,BOGO,200,0.05,79,161,0,0.306
+P1427,S103,Beauty,BrandB,Summer,Wed,None,200,0.0,54,131,0,0.387
+P1217,S128,Electronics,BrandD,Summer,Mon,Seasonal,200,0.15,55,92,0,0.16
+P1451,S124,Electronics,BrandE,Fall,Wed,Flash Sale,350,0.2,25,81,0,0.247
+P1354,S117,Clothing,BrandD,Winter,Thu,Flash Sale,35,0.0,52,118,0,0.265
+P1099,S122,Sports,BrandE,Spring,Mon,Seasonal,35,0.2,17,39,1,0.161
+P1148,S127,Electronics,BrandD,Winter,Thu,Flash Sale,80,0.05,7,14,0,0.276
+P1397,S109,Clothing,BrandA,Summer,Sun,BOGO,20,0.0,58,146,0,0.351
+P1377,S125,Electronics,BrandD,Summer,Thu,Seasonal,200,0.15,28,82,0,0.112
+P1420,S105,Sports,BrandA,Winter,Sun,BOGO,80,0.05,31,82,0,0.359
+P1483,S112,Beauty,BrandC,Winter,Wed,Seasonal,20,0.3,16,24,0,0.088
+P1411,S112,Beauty,BrandD,Spring,Thu,BOGO,20,0.2,63,132,1,0.274
+P1142,S131,Beauty,BrandA,Winter,Wed,BOGO,350,0.2,60,208,0,0.152
+P1411,S110,Clothing,BrandA,Winter,Sun,Seasonal,35,0.0,30,95,0,0.414
+P1241,S125,Electronics,BrandB,Winter,Thu,Seasonal,200,0.15,61,200,0,0.188
+P1557,S104,Home,BrandB,Spring,Fri,Flash Sale,200,0.0,54,113,0,0.311
+P1160,S116,Clothing,BrandE,Spring,Wed,Flash Sale,200,0.3,12,23,0,0.196
+P1445,S111,Clothing,BrandE,Winter,Tue,Flash Sale,200,0.0,20,55,0,0.367
+P1570,S133,Electronics,BrandC,Summer,Fri,Seasonal,200,0.3,30,45,1,-0.026
+P1592,S119,Home,BrandE,Spring,Thu,None,350,0.2,12,36,0,0.228
+P1169,S139,Home,BrandC,Spring,Fri,Flash Sale,80,0.2,32,62,0,0.108
+P1326,S102,Beauty,BrandD,Winter,Sat,Flash Sale,50,0.15,17,25,0,0.141
+P1090,S117,Beauty,BrandA,Spring,Mon,BOGO,350,0.1,21,64,1,0.352
+P1579,S104,Clothing,BrandC,Winter,Wed,Seasonal,80,0.15,14,44,0,0.189
+P1153,S139,Sports,BrandE,Spring,Thu,Flash Sale,50,0.2,64,151,0,0.061
+P1504,S126,Beauty,BrandB,Summer,Wed,None,350,0.05,12,22,0,0.34
+P1535,S123,Home,BrandD,Summer,Tue,None,350,0.1,44,70,0,0.241
+P1508,S105,Sports,BrandA,Spring,Sun,Flash Sale,120,0.15,27,90,0,0.311
+P1037,S135,Electronics,BrandE,Winter,Sun,BOGO,120,0.15,7,22,0,0.414
+P1046,S135,Sports,BrandE,Fall,Mon,Seasonal,200,0.2,29,58,0,0.234
+P1253,S108,Electronics,BrandC,Fall,Tue,BOGO,350,0.05,78,120,0,0.34
+P1562,S135,Electronics,BrandA,Summer,Tue,Seasonal,80,0.15,29,51,0,0.243
+P1166,S116,Home,BrandC,Winter,Fri,None,350,0.1,74,247,0,0.263
+P1108,S100,Electronics,BrandC,Spring,Sun,Seasonal,200,0.15,56,101,0,0.347
+P1269,S133,Sports,BrandD,Fall,Wed,None,80,0.05,47,149,0,0.453
+P1524,S134,Clothing,BrandD,Fall,Wed,Flash Sale,20,0.0,53,136,1,0.359
+P1312,S136,Clothing,BrandB,Fall,Sun,Flash Sale,80,0.15,48,99,0,0.089
+P1096,S104,Electronics,BrandD,Spring,Fri,BOGO,80,0.15,16,33,0,0.318
+P1196,S101,Beauty,BrandA,Winter,Thu,BOGO,20,0.3,54,127,0,-0.027
+P1201,S116,Home,BrandB,Winter,Thu,BOGO,350,0.3,23,70,0,0.042
+P1582,S102,Home,BrandB,Winter,Wed,Seasonal,35,0.05,45,85,0,0.304
+P1147,S118,Beauty,BrandC,Summer,Tue,BOGO,35,0.3,26,46,0,0.041
+P1480,S131,Electronics,BrandC,Fall,Wed,Seasonal,200,0.1,10,20,0,0.217
+P1283,S100,Electronics,BrandE,Fall,Sun,None,80,0.0,30,71,0,0.284
+P1261,S137,Electronics,BrandB,Spring,Wed,BOGO,50,0.0,14,32,0,0.325
+P1247,S127,Electronics,BrandC,Winter,Mon,BOGO,80,0.1,29,68,0,0.382
+P1574,S132,Electronics,BrandE,Summer,Tue,Seasonal,120,0.0,27,43,0,0.253
+P1274,S135,Clothing,BrandE,Fall,Sat,Flash Sale,35,0.1,66,179,0,0.252
+P1072,S105,Clothing,BrandA,Summer,Mon,Seasonal,20,0.1,12,19,0,0.32
+P1122,S137,Home,BrandD,Spring,Thu,Flash Sale,200,0.2,13,20,1,0.146
+P1184,S112,Beauty,BrandE,Summer,Sat,Seasonal,80,0.05,67,139,1,0.32
+P1340,S128,Sports,BrandA,Spring,Thu,None,350,0.0,59,172,0,0.47
+P1068,S100,Beauty,BrandD,Fall,Wed,Seasonal,50,0.2,51,146,0,0.28
+P1543,S131,Sports,BrandD,Spring,Tue,None,20,0.2,65,143,0,0.085
+P1546,S138,Electronics,BrandE,Spring,Sun,None,350,0.0,65,148,0,0.369
+P1557,S122,Sports,BrandA,Summer,Fri,BOGO,50,0.3,61,93,0,0.06
+P1234,S131,Home,BrandC,Spring,Tue,BOGO,80,0.05,26,67,0,0.316
+P1381,S127,Clothing,BrandE,Winter,Sun,None,50,0.15,38,96,0,0.169
+P1353,S112,Electronics,BrandB,Winter,Sun,None,50,0.1,78,181,0,0.204
+P1304,S102,Home,BrandA,Summer,Fri,None,120,0.2,33,78,0,0.037
+P1540,S131,Home,BrandD,Fall,Mon,BOGO,20,0.1,29,82,0,0.299
+P1338,S118,Home,BrandA,Winter,Sun,Flash Sale,20,0.2,45,111,0,0.222
+P1559,S101,Beauty,BrandA,Fall,Thu,Flash Sale,200,0.3,61,189,0,-0.0
+P1205,S139,Clothing,BrandD,Summer,Thu,Seasonal,20,0.0,49,117,0,0.325
+P1560,S108,Beauty,BrandD,Spring,Fri,Seasonal,350,0.1,34,65,0,0.239
+P1479,S116,Clothing,BrandE,Summer,Thu,None,20,0.15,12,28,0,0.159
+P1575,S125,Beauty,BrandB,Winter,Fri,BOGO,80,0.0,10,29,0,0.277
+P1039,S101,Beauty,BrandB,Fall,Wed,Flash Sale,80,0.05,65,190,0,0.345
+P1317,S131,Electronics,BrandA,Summer,Wed,BOGO,35,0.05,54,122,0,0.218
+P1585,S138,Sports,BrandD,Fall,Sun,Flash Sale,120,0.0,49,154,0,0.384
+P1574,S121,Sports,BrandE,Fall,Wed,Flash Sale,80,0.05,37,87,0,0.376
+P1454,S139,Sports,BrandB,Spring,Wed,None,200,0.05,52,111,0,0.222
+P1090,S131,Sports,BrandB,Summer,Fri,Flash Sale,200,0.1,24,79,0,0.203
+P1507,S134,Home,BrandA,Fall,Thu,Seasonal,350,0.2,17,29,0,0.343
+P1137,S118,Electronics,BrandD,Winter,Fri,Flash Sale,50,0.05,7,19,0,0.221
+P1539,S104,Clothing,BrandE,Summer,Fri,Seasonal,35,0.05,65,148,0,0.394
+P1287,S110,Sports,BrandB,Summer,Sun,BOGO,200,0.0,46,134,0,0.336
+P1181,S109,Clothing,BrandA,Fall,Sun,Seasonal,350,0.1,25,69,0,0.382
+P1433,S119,Home,BrandA,Summer,Wed,Flash Sale,80,0.3,51,122,0,-0.055
+P1437,S125,Clothing,BrandD,Fall,Wed,BOGO,200,0.15,42,108,0,0.205
+P1438,S115,Clothing,BrandE,Summer,Sun,Seasonal,120,0.05,34,113,0,0.282
+P1263,S114,Sports,BrandD,Fall,Sun,None,120,0.0,39,74,1,0.433
+P1493,S110,Home,BrandB,Summer,Thu,BOGO,20,0.0,68,223,0,0.437
+P1583,S139,Beauty,BrandC,Spring,Fri,BOGO,80,0.05,14,23,0,0.339
+P1035,S136,Home,BrandD,Summer,Tue,Seasonal,35,0.15,53,116,0,0.282
+P1191,S137,Home,BrandC,Fall,Thu,BOGO,350,0.3,6,18,1,-0.02
+P1225,S108,Sports,BrandA,Fall,Tue,Flash Sale,20,0.05,61,178,1,0.373
+P1039,S119,Home,BrandC,Winter,Tue,None,20,0.05,19,30,0,0.44
+P1226,S117,Beauty,BrandC,Winter,Sat,Seasonal,350,0.15,48,137,0,0.209
+P1131,S138,Electronics,BrandE,Fall,Wed,BOGO,20,0.0,10,26,0,0.401
+P1405,S131,Sports,BrandA,Spring,Sat,Seasonal,80,0.2,71,137,0,0.262
+P1382,S121,Beauty,BrandE,Winter,Sun,BOGO,50,0.1,53,156,0,0.336
+P1272,S123,Home,BrandB,Summer,Fri,Flash Sale,80,0.15,58,117,0,0.291
+P1001,S117,Electronics,BrandE,Fall,Tue,None,50,0.05,63,168,0,0.442
+P1566,S116,Clothing,BrandD,Summer,Mon,Seasonal,35,0.2,47,73,0,0.291
+P1264,S131,Beauty,BrandA,Winter,Sat,None,350,0.2,56,115,0,0.119
+P1138,S138,Clothing,BrandA,Winter,Tue,None,50,0.3,16,36,1,0.008
+P1226,S110,Electronics,BrandE,Summer,Tue,Flash Sale,350,0.3,54,115,0,-0.025
+P1027,S101,Sports,BrandC,Fall,Thu,BOGO,350,0.15,21,58,0,0.304
+P1493,S118,Home,BrandD,Summer,Sat,Seasonal,50,0.15,62,149,0,0.132
+P1446,S111,Home,BrandD,Spring,Thu,Flash Sale,80,0.0,46,100,0,0.3
+P1359,S109,Clothing,BrandC,Fall,Fri,Flash Sale,80,0.3,29,96,0,0.168
+P1350,S119,Beauty,BrandD,Summer,Sun,Seasonal,20,0.1,57,113,0,0.251
+P1468,S132,Beauty,BrandE,Summer,Tue,BOGO,20,0.05,34,114,0,0.301
+P1069,S122,Beauty,BrandC,Spring,Fri,Seasonal,350,0.3,29,53,1,0.189
+P1236,S136,Clothing,BrandE,Spring,Fri,None,350,0.1,44,101,0,0.313
+P1107,S111,Home,BrandE,Summer,Sun,Seasonal,35,0.0,64,174,1,0.28
+P1542,S124,Beauty,BrandA,Summer,Sat,Seasonal,200,0.15,77,120,1,0.152
+P1334,S116,Clothing,BrandE,Fall,Sat,Flash Sale,20,0.0,67,192,0,0.258
+P1365,S113,Sports,BrandE,Summer,Fri,None,200,0.05,17,28,0,0.36
+P1406,S124,Home,BrandB,Summer,Fri,BOGO,50,0.15,10,28,0,0.333
+P1398,S118,Clothing,BrandD,Summer,Mon,Flash Sale,200,0.1,68,186,0,0.293
+P1316,S116,Clothing,BrandB,Winter,Wed,Seasonal,80,0.1,36,121,0,0.356
+P1189,S103,Sports,BrandB,Fall,Fri,BOGO,200,0.05,18,37,0,0.389
+P1582,S138,Home,BrandE,Winter,Wed,BOGO,200,0.1,35,119,0,0.287
+P1452,S129,Home,BrandE,Spring,Thu,Seasonal,35,0.05,73,223,0,0.366
+P1456,S136,Home,BrandD,Spring,Wed,Flash Sale,200,0.05,22,43,0,0.302
+P1415,S121,Clothing,BrandA,Fall,Sat,Seasonal,50,0.1,21,60,0,0.295
+P1269,S132,Home,BrandA,Summer,Mon,None,120,0.1,7,24,0,0.326
+P1494,S124,Home,BrandB,Winter,Sat,BOGO,50,0.2,51,119,0,0.194
+P1098,S110,Clothing,BrandE,Winter,Sat,None,350,0.0,29,81,0,0.298
+P1482,S125,Electronics,BrandD,Summer,Sun,Flash Sale,20,0.3,68,139,0,0.199
+P1282,S114,Beauty,BrandD,Winter,Sat,Flash Sale,80,0.15,8,27,0,0.224
+P1174,S111,Sports,BrandB,Summer,Fri,Seasonal,120,0.0,40,125,0,0.261
+P1435,S118,Sports,BrandB,Winter,Fri,Flash Sale,120,0.2,71,175,1,0.112
+P1029,S118,Home,BrandE,Summer,Sat,BOGO,120,0.15,29,59,0,0.319
+P1549,S105,Beauty,BrandA,Fall,Mon,Seasonal,200,0.15,56,118,0,0.298
+P1579,S118,Home,BrandC,Winter,Fri,None,35,0.2,24,67,0,0.186
+P1129,S101,Beauty,BrandA,Fall,Sat,Flash Sale,350,0.2,36,98,1,0.121
+P1385,S123,Beauty,BrandD,Summer,Tue,Flash Sale,50,0.0,15,39,1,0.314
+P1181,S101,Electronics,BrandB,Fall,Sat,BOGO,50,0.1,71,152,0,0.217
+P1553,S136,Sports,BrandA,Fall,Tue,Flash Sale,80,0.0,14,40,0,0.444
+P1200,S109,Electronics,BrandB,Fall,Thu,Flash Sale,35,0.05,70,162,0,0.415
+P1284,S114,Beauty,BrandE,Fall,Thu,None,20,0.1,40,73,0,0.33
+P1313,S111,Beauty,BrandE,Fall,Sat,BOGO,120,0.05,22,38,0,0.255
+P1194,S122,Sports,BrandC,Fall,Wed,None,120,0.15,60,185,0,0.205
+P1598,S113,Sports,BrandD,Winter,Mon,BOGO,50,0.3,74,212,1,-0.039
+P1244,S130,Clothing,BrandA,Fall,Wed,BOGO,35,0.2,31,71,0,0.119
+P1510,S124,Home,BrandE,Winter,Thu,Flash Sale,350,0.2,39,128,0,0.183
+P1053,S125,Clothing,BrandD,Spring,Wed,None,350,0.0,48,81,0,0.414
+P1028,S132,Clothing,BrandD,Summer,Fri,Flash Sale,120,0.0,70,199,0,0.322
+P1170,S112,Sports,BrandD,Winter,Sat,Seasonal,80,0.2,24,72,0,0.147
+P1025,S122,Clothing,BrandE,Fall,Mon,Seasonal,120,0.2,47,88,0,0.281
+P1522,S137,Home,BrandC,Summer,Sat,BOGO,350,0.1,16,39,0,0.372
+P1051,S106,Clothing,BrandE,Fall,Mon,Seasonal,20,0.05,69,238,0,0.301
+P1268,S124,Sports,BrandA,Fall,Sat,Seasonal,200,0.15,47,159,0,0.238
+P1428,S122,Home,BrandD,Summer,Sun,None,20,0.3,15,33,0,0.062
+P1413,S128,Sports,BrandA,Summer,Sat,BOGO,200,0.2,40,73,0,0.268
+P1518,S121,Electronics,BrandB,Winter,Mon,BOGO,120,0.3,42,101,0,0.096
+P1515,S116,Beauty,BrandC,Spring,Tue,Seasonal,350,0.2,54,124,0,0.22
+P1291,S126,Electronics,BrandB,Fall,Thu,None,200,0.05,77,130,0,0.368
+P1038,S103,Clothing,BrandB,Fall,Thu,BOGO,350,0.1,63,141,0,0.193
+P1598,S125,Sports,BrandD,Fall,Sat,Flash Sale,35,0.2,75,214,0,0.24
+P1270,S101,Beauty,BrandE,Fall,Sat,BOGO,350,0.3,34,96,0,0.057
+P1377,S110,Beauty,BrandC,Spring,Thu,None,50,0.05,42,81,0,0.316
+P1143,S130,Beauty,BrandD,Summer,Sun,None,200,0.05,48,161,0,0.314
+P1052,S131,Clothing,BrandB,Summer,Sun,BOGO,120,0.3,36,113,0,-0.012
+P1293,S112,Sports,BrandC,Summer,Sun,BOGO,120,0.1,7,13,0,0.328
+P1332,S102,Electronics,BrandD,Spring,Fri,None,80,0.1,71,116,0,0.257
+P1207,S107,Electronics,BrandA,Spring,Thu,None,350,0.3,45,148,0,0.005
+P1133,S104,Clothing,BrandA,Spring,Sat,None,35,0.3,45,82,0,0.18
+P1110,S108,Beauty,BrandD,Winter,Thu,BOGO,80,0.05,63,95,1,0.247
+P1486,S129,Sports,BrandE,Winter,Mon,Seasonal,50,0.05,12,31,0,0.271
+P1113,S110,Clothing,BrandC,Summer,Fri,BOGO,350,0.05,70,187,1,0.431
+P1439,S118,Home,BrandD,Summer,Thu,Seasonal,200,0.2,48,119,0,0.135
+P1126,S134,Sports,BrandD,Spring,Sat,Seasonal,20,0.1,32,99,0,0.201
+P1213,S120,Home,BrandE,Winter,Mon,None,50,0.15,49,86,0,0.305
+P1312,S138,Clothing,BrandE,Fall,Tue,Seasonal,50,0.1,27,72,0,0.143
+P1346,S108,Sports,BrandE,Winter,Sun,None,50,0.05,11,33,0,0.28
+P1536,S105,Clothing,BrandA,Winter,Sat,BOGO,120,0.2,53,93,0,0.301
+P1224,S123,Clothing,BrandB,Fall,Mon,Seasonal,200,0.05,44,77,0,0.256
+P1481,S124,Home,BrandE,Summer,Sun,Flash Sale,120,0.1,66,183,0,0.296
+P1438,S117,Home,BrandA,Winter,Fri,BOGO,200,0.1,77,203,0,0.348
+P1273,S123,Beauty,BrandE,Winter,Sun,Flash Sale,200,0.0,52,96,0,0.328
+P1142,S134,Electronics,BrandD,Winter,Sun,None,20,0.2,13,27,0,0.274
+P1066,S108,Sports,BrandC,Summer,Fri,None,35,0.05,17,26,0,0.254
+P1072,S106,Home,BrandD,Summer,Sun,Seasonal,80,0.2,16,35,0,0.075
+P1182,S116,Sports,BrandB,Winter,Fri,BOGO,120,0.2,55,179,0,0.261
+P1191,S104,Clothing,BrandC,Fall,Wed,BOGO,35,0.3,71,150,0,0.065
+P1518,S129,Clothing,BrandA,Winter,Sun,BOGO,20,0.15,19,57,0,0.132
+P1006,S126,Home,BrandB,Fall,Mon,BOGO,35,0.15,46,119,0,0.146
+P1382,S133,Beauty,BrandC,Summer,Sat,None,350,0.3,33,71,0,0.165
+P1327,S119,Clothing,BrandA,Winter,Mon,None,35,0.2,58,163,0,0.146
+P1463,S137,Beauty,BrandA,Summer,Wed,BOGO,200,0.15,39,126,0,0.315
+P1431,S104,Clothing,BrandD,Summer,Sat,Flash Sale,35,0.15,41,103,0,0.206
+P1049,S113,Home,BrandC,Summer,Tue,Seasonal,350,0.2,65,144,0,0.076
+P1487,S131,Sports,BrandD,Winter,Fri,None,350,0.1,66,223,0,0.333
+P1391,S126,Home,BrandA,Winter,Sat,None,350,0.15,75,244,0,0.2
+P1305,S116,Home,BrandB,Fall,Fri,Flash Sale,120,0.15,65,199,0,0.308
+P1425,S101,Electronics,BrandC,Fall,Sat,Seasonal,200,0.0,73,147,0,0.483
+P1326,S100,Electronics,BrandA,Fall,Thu,Seasonal,35,0.2,42,124,0,0.035
+P1017,S112,Electronics,BrandE,Summer,Sun,None,50,0.1,63,172,0,0.226
+P1070,S117,Home,BrandB,Winter,Thu,BOGO,350,0.05,27,76,0,0.401
+P1127,S119,Clothing,BrandA,Spring,Mon,None,35,0.1,33,96,0,0.332
+P1573,S129,Sports,BrandC,Fall,Sat,None,350,0.1,67,108,0,0.323
+P1397,S122,Electronics,BrandC,Fall,Sun,Flash Sale,35,0.05,69,235,0,0.377
+P1320,S100,Clothing,BrandE,Winter,Thu,Flash Sale,35,0.1,5,15,1,0.236
+P1107,S114,Home,BrandE,Fall,Sat,BOGO,35,0.15,69,218,0,0.236
+P1149,S131,Electronics,BrandD,Winter,Sat,Flash Sale,50,0.05,14,26,0,0.334
+P1566,S126,Electronics,BrandE,Winter,Tue,Flash Sale,200,0.1,22,42,0,0.375
+P1412,S133,Electronics,BrandA,Winter,Sun,Flash Sale,350,0.3,33,72,1,0.067
+P1102,S109,Home,BrandB,Spring,Thu,None,350,0.05,47,76,0,0.382
+P1055,S115,Electronics,BrandC,Fall,Mon,Seasonal,20,0.0,78,267,0,0.276
+P1443,S121,Home,BrandA,Summer,Tue,None,35,0.05,6,13,0,0.273
+P1365,S132,Electronics,BrandE,Winter,Tue,Seasonal,50,0.2,42,79,0,0.165
+P1151,S109,Sports,BrandA,Spring,Tue,Seasonal,200,0.0,72,241,0,0.427
+P1131,S117,Clothing,BrandD,Fall,Sun,Flash Sale,120,0.05,21,47,0,0.311
+P1153,S125,Beauty,BrandA,Spring,Fri,Flash Sale,120,0.1,19,36,0,0.194
+P1048,S125,Clothing,BrandD,Fall,Fri,BOGO,35,0.1,21,44,0,0.267
+P1117,S115,Home,BrandE,Summer,Thu,BOGO,200,0.15,20,31,0,0.167
+P1160,S125,Electronics,BrandE,Fall,Sun,Flash Sale,350,0.0,47,81,1,0.329
+P1281,S120,Beauty,BrandD,Fall,Tue,BOGO,120,0.05,79,215,1,0.319
+P1129,S119,Beauty,BrandC,Spring,Wed,Flash Sale,350,0.2,27,61,0,0.298
+P1355,S121,Home,BrandD,Fall,Wed,BOGO,35,0.15,20,42,0,0.113
+P1356,S106,Clothing,BrandE,Summer,Sun,Seasonal,50,0.1,10,19,0,0.309
+P1148,S110,Home,BrandE,Summer,Sun,BOGO,120,0.2,41,71,0,0.282
+P1168,S109,Home,BrandA,Winter,Wed,BOGO,35,0.15,42,107,0,0.237
+P1196,S118,Home,BrandD,Winter,Tue,BOGO,20,0.15,8,14,0,0.203
+P1001,S107,Home,BrandC,Fall,Fri,Seasonal,120,0.1,15,41,0,0.264
+P1477,S138,Beauty,BrandA,Winter,Tue,BOGO,80,0.15,18,57,0,0.166
+P1389,S116,Clothing,BrandB,Spring,Wed,BOGO,120,0.15,48,153,0,0.352
+P1351,S111,Home,BrandC,Spring,Sat,None,120,0.3,61,120,0,0.053
+P1179,S139,Sports,BrandA,Winter,Tue,BOGO,35,0.05,29,50,0,0.41
+P1583,S129,Beauty,BrandE,Spring,Sun,Seasonal,120,0.05,39,125,1,0.31
+P1041,S118,Home,BrandE,Spring,Wed,BOGO,35,0.05,40,101,0,0.401
+P1004,S125,Sports,BrandC,Winter,Wed,BOGO,200,0.0,16,53,0,0.465
+P1588,S136,Beauty,BrandB,Summer,Fri,Flash Sale,35,0.05,6,9,1,0.217
+P1168,S114,Home,BrandD,Fall,Wed,Flash Sale,80,0.3,64,198,0,0.127
+P1025,S136,Sports,BrandE,Fall,Fri,None,80,0.2,74,181,0,0.261
+P1299,S111,Home,BrandE,Fall,Mon,Seasonal,350,0.2,27,91,0,0.209
+P1481,S133,Sports,BrandB,Winter,Tue,BOGO,120,0.3,58,159,0,0.21
+P1398,S104,Sports,BrandC,Spring,Wed,BOGO,200,0.15,57,123,0,0.206
+P1419,S136,Clothing,BrandA,Winter,Fri,BOGO,80,0.05,40,138,0,0.324
+P1335,S111,Beauty,BrandE,Spring,Tue,None,200,0.0,8,19,0,0.399
+P1089,S137,Beauty,BrandA,Summer,Mon,Seasonal,35,0.0,39,103,0,0.285
+P1379,S125,Electronics,BrandE,Summer,Wed,Seasonal,35,0.0,35,105,1,0.423
+P1113,S111,Sports,BrandD,Summer,Thu,Flash Sale,200,0.15,34,116,0,0.19
+P1332,S118,Sports,BrandB,Spring,Sat,Seasonal,200,0.2,27,92,0,0.176
+P1579,S133,Home,BrandE,Summer,Tue,Seasonal,80,0.1,48,93,0,0.297
+P1192,S127,Electronics,BrandE,Spring,Fri,None,120,0.2,14,28,0,0.23
+P1295,S137,Clothing,BrandC,Fall,Tue,None,120,0.05,61,114,0,0.39
+P1070,S126,Sports,BrandD,Summer,Sat,Flash Sale,20,0.3,47,120,0,0.105
+P1529,S105,Electronics,BrandE,Summer,Mon,None,200,0.3,29,99,0,0.166
+P1435,S133,Sports,BrandC,Winter,Fri,None,35,0.2,44,79,1,0.151
+P1117,S119,Electronics,BrandA,Summer,Sun,BOGO,20,0.2,70,236,0,0.145
+P1013,S104,Home,BrandB,Winter,Wed,Seasonal,80,0.1,21,40,0,0.194
+P1251,S108,Beauty,BrandD,Winter,Wed,BOGO,200,0.1,27,61,0,0.307
+P1095,S138,Beauty,BrandB,Fall,Sat,Seasonal,120,0.15,24,47,0,0.249
+P1583,S130,Home,BrandD,Spring,Thu,BOGO,35,0.1,43,139,0,0.336
+P1467,S124,Beauty,BrandD,Spring,Wed,BOGO,20,0.1,77,153,0,0.197
+P1216,S100,Electronics,BrandD,Spring,Fri,Seasonal,350,0.15,42,71,0,0.151
+P1016,S103,Electronics,BrandC,Fall,Wed,Flash Sale,200,0.15,16,40,0,0.236
+P1555,S114,Home,BrandE,Spring,Wed,Flash Sale,35,0.3,49,145,0,0.165
+P1003,S109,Electronics,BrandD,Spring,Wed,None,35,0.1,71,116,0,0.26
+P1482,S102,Beauty,BrandA,Winter,Sat,Flash Sale,20,0.1,25,57,0,0.147
+P1588,S101,Beauty,BrandD,Summer,Wed,BOGO,80,0.0,44,74,0,0.284
+P1083,S138,Sports,BrandA,Winter,Fri,None,50,0.1,64,153,0,0.208
+P1516,S125,Clothing,BrandE,Fall,Tue,BOGO,35,0.0,61,183,0,0.33
+P1446,S131,Beauty,BrandA,Spring,Tue,Seasonal,50,0.1,75,156,0,0.129
+P1213,S119,Electronics,BrandD,Winter,Fri,Seasonal,350,0.0,49,158,0,0.315
+P1165,S136,Clothing,BrandB,Summer,Tue,Flash Sale,80,0.0,26,80,0,0.39
+P1463,S104,Beauty,BrandE,Summer,Fri,Seasonal,35,0.0,20,34,0,0.423
+P1518,S137,Sports,BrandD,Spring,Fri,Flash Sale,50,0.3,62,170,0,0.183
+P1002,S128,Beauty,BrandC,Winter,Sat,BOGO,350,0.1,13,43,0,0.191
+P1163,S110,Home,BrandC,Winter,Sun,Flash Sale,20,0.2,43,148,0,0.031
+P1125,S109,Sports,BrandA,Spring,Tue,Seasonal,80,0.0,29,87,0,0.327
+P1386,S109,Sports,BrandB,Winter,Fri,None,350,0.05,40,102,0,0.404
+P1420,S102,Beauty,BrandE,Fall,Sun,Flash Sale,350,0.15,30,63,0,0.314
+P1357,S124,Clothing,BrandA,Winter,Sun,Seasonal,200,0.1,42,105,0,0.265
+P1497,S128,Electronics,BrandB,Spring,Fri,BOGO,50,0.3,67,103,0,0.082
+P1092,S115,Beauty,BrandE,Winter,Mon,None,80,0.2,41,66,0,0.175
+P1388,S106,Home,BrandD,Winter,Wed,BOGO,50,0.2,33,98,0,0.203
+P1124,S102,Sports,BrandB,Spring,Fri,BOGO,20,0.0,31,106,0,0.34
+P1208,S100,Sports,BrandD,Winter,Sat,None,35,0.05,26,77,0,0.269
+P1448,S123,Home,BrandC,Fall,Thu,Seasonal,200,0.1,68,169,1,0.145
+P1114,S103,Clothing,BrandE,Summer,Fri,BOGO,50,0.0,58,190,0,0.366
+P1258,S111,Electronics,BrandB,Winter,Fri,Seasonal,35,0.0,54,141,0,0.386
+P1055,S134,Beauty,BrandA,Summer,Mon,Seasonal,20,0.15,24,57,0,0.095
+P1371,S136,Sports,BrandD,Fall,Thu,Seasonal,20,0.2,55,96,0,0.183
+P1187,S130,Clothing,BrandA,Summer,Sat,None,35,0.05,45,100,0,0.365
+P1494,S119,Home,BrandC,Winter,Wed,Flash Sale,80,0.3,18,62,1,-0.104
+P1105,S131,Home,BrandC,Winter,Fri,None,80,0.15,33,77,0,0.282
+P1113,S113,Electronics,BrandB,Winter,Sun,None,20,0.0,22,44,0,0.244
+P1061,S137,Sports,BrandB,Spring,Tue,Flash Sale,35,0.0,53,166,0,0.371
+P1051,S136,Beauty,BrandB,Fall,Fri,BOGO,20,0.0,72,167,1,0.366
+P1473,S129,Electronics,BrandB,Spring,Sat,Flash Sale,120,0.0,36,106,0,0.365
+P1470,S108,Home,BrandE,Spring,Mon,Seasonal,20,0.1,17,56,0,0.338
+P1161,S136,Clothing,BrandE,Summer,Tue,None,80,0.05,73,174,0,0.249
+P1483,S101,Clothing,BrandB,Spring,Tue,None,120,0.3,47,107,0,-0.024
+P1541,S107,Home,BrandA,Summer,Mon,Flash Sale,80,0.3,48,155,1,0.167
+P1210,S122,Clothing,BrandB,Summer,Sat,Flash Sale,20,0.1,9,19,0,0.359
+P1527,S122,Home,BrandD,Fall,Fri,BOGO,35,0.2,43,128,0,0.265
+P1411,S132,Clothing,BrandA,Summer,Tue,BOGO,120,0.0,30,80,0,0.32
+P1557,S137,Home,BrandB,Summer,Mon,Seasonal,35,0.2,43,108,0,0.19
+P1245,S105,Home,BrandD,Summer,Sat,BOGO,20,0.3,33,66,1,-0.044
+P1051,S101,Electronics,BrandE,Spring,Wed,BOGO,350,0.05,17,41,0,0.375
+P1496,S118,Clothing,BrandB,Summer,Mon,Seasonal,200,0.1,63,178,1,0.322
+P1332,S101,Sports,BrandE,Fall,Wed,BOGO,50,0.1,72,219,0,0.265
+P1350,S115,Home,BrandA,Fall,Wed,BOGO,350,0.05,50,159,0,0.295
+P1303,S100,Sports,BrandC,Spring,Tue,BOGO,35,0.3,35,110,0,0.185
+P1197,S135,Beauty,BrandE,Winter,Sun,Flash Sale,350,0.2,69,158,0,0.06
+P1266,S104,Clothing,BrandC,Winter,Tue,Seasonal,80,0.1,70,133,1,0.196
+P1030,S110,Electronics,BrandB,Fall,Mon,Flash Sale,350,0.3,50,76,1,-0.037
+P1316,S137,Beauty,BrandB,Winter,Tue,None,350,0.2,25,54,0,0.083
+P1012,S118,Beauty,BrandA,Winter,Wed,Flash Sale,200,0.0,71,198,0,0.432
+P1467,S130,Sports,BrandA,Fall,Tue,Seasonal,120,0.05,26,52,0,0.423
+P1171,S108,Home,BrandB,Winter,Thu,Flash Sale,35,0.15,43,147,1,0.11
+P1145,S106,Beauty,BrandB,Winter,Thu,Flash Sale,350,0.15,67,137,0,0.299
+P1432,S132,Electronics,BrandE,Winter,Sun,None,35,0.05,33,99,0,0.417
+P1445,S132,Home,BrandA,Winter,Fri,BOGO,35,0.3,24,64,0,0.019
+P1201,S123,Sports,BrandC,Summer,Tue,None,50,0.3,38,82,0,0.167
+P1020,S135,Electronics,BrandA,Spring,Wed,Seasonal,350,0.0,11,23,0,0.28
+P1102,S132,Electronics,BrandE,Spring,Fri,BOGO,20,0.15,57,87,0,0.277
+P1314,S130,Sports,BrandB,Fall,Mon,BOGO,120,0.05,18,51,0,0.374
+P1287,S117,Home,BrandE,Spring,Mon,Seasonal,35,0.2,67,231,0,0.256
+P1598,S118,Beauty,BrandC,Winter,Fri,Flash Sale,80,0.3,34,58,1,0.215
+P1213,S137,Clothing,BrandB,Summer,Wed,Seasonal,50,0.05,6,16,0,0.331
+P1482,S110,Beauty,BrandD,Summer,Fri,Flash Sale,50,0.2,15,45,0,0.192
+P1014,S118,Sports,BrandD,Fall,Thu,Seasonal,80,0.1,43,81,0,0.3
+P1242,S116,Clothing,BrandB,Spring,Sat,BOGO,120,0.2,8,12,0,0.209
+P1479,S106,Beauty,BrandD,Spring,Mon,Seasonal,80,0.15,70,149,0,0.172
+P1046,S114,Clothing,BrandA,Spring,Thu,Seasonal,50,0.3,31,55,0,0.051
+P1469,S134,Beauty,BrandE,Spring,Thu,Flash Sale,80,0.15,75,172,0,0.155
+P1099,S104,Electronics,BrandA,Spring,Sat,Seasonal,35,0.15,28,80,0,0.112
+P1091,S138,Beauty,BrandE,Spring,Sat,Seasonal,350,0.05,61,186,0,0.369
+P1249,S119,Clothing,BrandD,Summer,Wed,Flash Sale,80,0.0,11,27,1,0.377
+P1303,S117,Electronics,BrandE,Spring,Mon,Seasonal,120,0.3,38,98,0,0.003
+P1146,S127,Sports,BrandC,Summer,Sat,None,20,0.1,43,79,1,0.312
+P1458,S101,Beauty,BrandC,Summer,Thu,None,50,0.3,26,47,1,-0.072
+P1005,S139,Sports,BrandC,Fall,Wed,None,35,0.0,6,14,0,0.325
+P1568,S133,Electronics,BrandC,Spring,Sun,Flash Sale,20,0.3,44,78,0,0.233
+P1277,S110,Clothing,BrandC,Winter,Sat,BOGO,80,0.05,29,60,0,0.252
+P1272,S132,Beauty,BrandE,Winter,Mon,Seasonal,120,0.1,44,97,0,0.299
+P1064,S119,Electronics,BrandB,Winter,Mon,None,120,0.2,62,173,0,0.311
+P1445,S135,Sports,BrandB,Spring,Sun,Seasonal,80,0.05,29,57,0,0.287
+P1079,S106,Sports,BrandC,Fall,Mon,BOGO,200,0.15,34,96,0,0.362
+P1573,S125,Electronics,BrandA,Spring,Fri,None,50,0.15,11,17,0,0.262
+P1222,S139,Electronics,BrandD,Spring,Thu,None,80,0.0,28,92,0,0.301
+P1030,S136,Home,BrandC,Spring,Fri,None,200,0.1,29,45,0,0.246
+P1548,S121,Electronics,BrandD,Summer,Mon,BOGO,20,0.1,51,123,0,0.298
+P1361,S128,Home,BrandD,Fall,Mon,Seasonal,80,0.3,31,66,1,0.1
+P1502,S116,Electronics,BrandB,Fall,Thu,Seasonal,200,0.3,57,119,1,-0.018
+P1181,S104,Home,BrandA,Fall,Sat,BOGO,35,0.3,47,83,0,0.1
+P1132,S122,Electronics,BrandB,Summer,Fri,Seasonal,350,0.1,14,45,0,0.284
+P1161,S110,Electronics,BrandC,Spring,Thu,BOGO,200,0.1,24,37,0,0.301
+P1211,S133,Electronics,BrandD,Fall,Thu,BOGO,35,0.0,66,164,1,0.334
+P1314,S135,Home,BrandC,Spring,Sat,Flash Sale,35,0.1,22,70,0,0.302
+P1593,S118,Home,BrandD,Fall,Wed,Flash Sale,350,0.05,21,36,0,0.317
+P1048,S135,Sports,BrandE,Fall,Sun,None,20,0.15,14,40,0,0.267
+P1440,S112,Clothing,BrandB,Winter,Sun,Seasonal,35,0.0,75,124,0,0.373
+P1542,S101,Electronics,BrandC,Spring,Sun,Seasonal,80,0.05,75,126,0,0.261
+P1076,S136,Home,BrandA,Spring,Wed,Seasonal,35,0.2,20,57,0,0.113
+P1323,S105,Electronics,BrandA,Winter,Fri,Seasonal,35,0.0,74,184,0,0.465
+P1332,S136,Beauty,BrandA,Fall,Wed,BOGO,20,0.0,69,172,0,0.363
+P1597,S124,Home,BrandE,Fall,Thu,BOGO,350,0.1,21,33,0,0.201
+P1339,S128,Beauty,BrandC,Winter,Wed,None,120,0.3,30,78,1,0.219
+P1090,S112,Electronics,BrandE,Spring,Fri,Flash Sale,200,0.15,78,221,0,0.243
+P1176,S120,Electronics,BrandD,Fall,Wed,None,200,0.1,67,165,0,0.311
+P1022,S126,Home,BrandA,Winter,Fri,BOGO,35,0.05,74,244,0,0.263
+P1252,S105,Clothing,BrandB,Winter,Thu,BOGO,35,0.3,29,65,0,0.054
+P1454,S110,Beauty,BrandD,Summer,Mon,None,80,0.3,15,32,0,0.012
+P1414,S105,Clothing,BrandC,Summer,Fri,Seasonal,35,0.0,35,93,0,0.48
+P1593,S123,Home,BrandD,Spring,Wed,BOGO,200,0.0,54,127,0,0.401
+P1147,S122,Sports,BrandD,Summer,Thu,BOGO,200,0.05,9,18,0,0.241
+P1023,S130,Sports,BrandE,Fall,Sat,BOGO,20,0.3,28,87,0,0.121
+P1565,S138,Home,BrandD,Winter,Wed,Flash Sale,200,0.3,69,135,0,0.001
+P1415,S131,Home,BrandB,Summer,Mon,Seasonal,50,0.05,18,41,0,0.329
+P1109,S100,Electronics,BrandD,Winter,Wed,Seasonal,35,0.05,34,52,0,0.406
+P1298,S138,Electronics,BrandC,Fall,Sat,Flash Sale,120,0.15,13,25,0,0.144
+P1213,S107,Sports,BrandE,Winter,Tue,BOGO,120,0.0,41,134,0,0.303
+P1588,S124,Sports,BrandB,Winter,Wed,Seasonal,80,0.05,78,170,1,0.373
+P1596,S108,Beauty,BrandC,Winter,Fri,None,20,0.05,77,203,0,0.246
+P1161,S108,Beauty,BrandE,Winter,Mon,Flash Sale,20,0.15,29,53,0,0.311
+P1519,S125,Beauty,BrandE,Fall,Thu,BOGO,120,0.05,45,116,0,0.375
+P1521,S138,Home,BrandA,Summer,Fri,None,80,0.1,46,70,0,0.332
+P1353,S138,Sports,BrandB,Spring,Thu,None,80,0.2,24,77,0,0.09
+P1368,S133,Sports,BrandC,Fall,Tue,Seasonal,120,0.0,32,109,0,0.398
+P1541,S130,Electronics,BrandC,Fall,Mon,BOGO,50,0.0,77,181,0,0.415
+P1214,S111,Home,BrandB,Summer,Tue,BOGO,80,0.15,58,195,0,0.191
+P1519,S109,Sports,BrandB,Summer,Sun,BOGO,35,0.05,70,177,0,0.385
+P1177,S109,Home,BrandB,Spring,Mon,BOGO,120,0.1,24,64,0,0.289
+P1476,S110,Electronics,BrandC,Fall,Sun,BOGO,35,0.15,65,175,0,0.339
+P1022,S112,Electronics,BrandB,Spring,Mon,Seasonal,20,0.1,35,57,0,0.275
+P1229,S131,Home,BrandD,Winter,Mon,None,20,0.2,35,95,0,0.221
+P1395,S116,Clothing,BrandB,Summer,Fri,None,350,0.15,14,21,1,0.166
+P1252,S118,Beauty,BrandC,Summer,Thu,Flash Sale,35,0.15,18,44,0,0.119
+P1138,S119,Clothing,BrandE,Summer,Sat,Flash Sale,80,0.0,18,57,0,0.3
+P1204,S108,Beauty,BrandD,Winter,Fri,Seasonal,80,0.1,48,131,0,0.307
+P1076,S112,Home,BrandD,Winter,Tue,BOGO,200,0.05,43,101,0,0.352
+P1151,S129,Sports,BrandC,Summer,Tue,None,120,0.05,77,249,0,0.282
+P1058,S132,Clothing,BrandD,Summer,Tue,Flash Sale,80,0.1,16,52,0,0.229
+P1229,S110,Sports,BrandA,Fall,Sat,Seasonal,350,0.3,49,138,0,0.093
+P1072,S133,Electronics,BrandE,Summer,Fri,None,35,0.3,24,70,0,0.075
+P1578,S109,Electronics,BrandA,Summer,Mon,Flash Sale,200,0.2,65,128,0,0.306
+P1110,S136,Beauty,BrandD,Winter,Wed,None,120,0.1,61,138,0,0.338
+P1401,S108,Sports,BrandE,Summer,Wed,Seasonal,350,0.05,6,17,1,0.439
+P1364,S110,Beauty,BrandB,Spring,Thu,Seasonal,20,0.15,14,28,0,0.178
+P1351,S113,Electronics,BrandA,Winter,Wed,Seasonal,80,0.0,16,42,0,0.356
+P1433,S115,Electronics,BrandB,Spring,Sat,None,20,0.1,23,56,0,0.264
+P1071,S133,Home,BrandC,Spring,Wed,Flash Sale,20,0.05,51,145,0,0.265
+P1320,S103,Electronics,BrandA,Spring,Mon,Flash Sale,80,0.15,18,29,0,0.204
+P1014,S109,Electronics,BrandC,Fall,Mon,Seasonal,80,0.2,70,195,0,0.343
+P1209,S137,Electronics,BrandD,Winter,Sat,Seasonal,20,0.0,48,101,1,0.432
+P1157,S136,Clothing,BrandB,Summer,Sun,None,200,0.15,35,86,0,0.212
+P1446,S139,Beauty,BrandC,Spring,Tue,BOGO,80,0.15,13,19,0,0.189
+P1029,S138,Home,BrandC,Winter,Fri,None,200,0.0,61,131,1,0.251
+P1350,S133,Electronics,BrandC,Summer,Sat,BOGO,20,0.2,62,210,0,0.226
+P1106,S114,Beauty,BrandA,Winter,Thu,BOGO,20,0.15,32,109,0,0.167
+P1589,S127,Home,BrandE,Winter,Wed,Seasonal,35,0.15,55,160,0,0.324
+P1272,S103,Beauty,BrandE,Winter,Wed,None,120,0.1,28,68,0,0.147
+P1098,S126,Electronics,BrandB,Spring,Mon,None,20,0.1,6,13,0,0.297
+P1358,S109,Electronics,BrandA,Summer,Sat,None,50,0.15,45,87,0,0.271
+P1481,S122,Sports,BrandA,Fall,Wed,Flash Sale,350,0.1,35,81,0,0.152
+P1364,S125,Beauty,BrandE,Winter,Tue,Seasonal,20,0.15,75,249,0,0.114
+P1328,S130,Beauty,BrandD,Winter,Wed,BOGO,35,0.1,37,88,1,0.367
+P1164,S137,Clothing,BrandB,Winter,Thu,None,35,0.0,19,65,0,0.296
+P1567,S125,Sports,BrandE,Winter,Wed,Flash Sale,50,0.05,15,32,0,0.296
+P1430,S104,Home,BrandD,Fall,Tue,Seasonal,200,0.3,60,179,0,0.189
+P1576,S132,Electronics,BrandB,Winter,Wed,Seasonal,35,0.05,34,80,0,0.242
+P1267,S104,Electronics,BrandA,Winter,Mon,Seasonal,350,0.0,34,109,0,0.267
+P1001,S108,Electronics,BrandD,Spring,Thu,None,50,0.0,23,56,1,0.396
+P1292,S114,Electronics,BrandC,Summer,Thu,BOGO,80,0.15,24,48,0,0.11
+P1203,S116,Electronics,BrandD,Winter,Sun,BOGO,200,0.3,69,147,0,-0.049
+P1236,S134,Sports,BrandE,Spring,Fri,BOGO,200,0.05,65,193,0,0.339
+P1111,S119,Beauty,BrandA,Winter,Wed,BOGO,80,0.1,56,157,0,0.281
+P1080,S125,Home,BrandD,Winter,Thu,Seasonal,200,0.3,47,143,0,0.062
+P1460,S110,Sports,BrandC,Spring,Tue,Seasonal,35,0.0,44,98,0,0.335
+P1006,S108,Clothing,BrandE,Spring,Sat,BOGO,200,0.05,61,123,0,0.347
+P1522,S132,Sports,BrandD,Winter,Wed,Seasonal,35,0.05,79,163,0,0.211
+P1565,S104,Clothing,BrandD,Summer,Thu,Flash Sale,50,0.05,10,28,1,0.327
+P1556,S111,Electronics,BrandE,Summer,Fri,Seasonal,350,0.0,21,35,0,0.374
+P1027,S103,Electronics,BrandD,Summer,Tue,Flash Sale,80,0.1,48,83,1,0.212
+P1478,S100,Clothing,BrandC,Winter,Wed,None,350,0.05,5,12,0,0.373
+P1451,S120,Sports,BrandC,Summer,Fri,BOGO,80,0.2,8,19,0,0.138
+P1450,S100,Beauty,BrandE,Spring,Wed,BOGO,50,0.3,15,48,0,-0.053
+P1395,S137,Electronics,BrandA,Winter,Fri,BOGO,200,0.0,61,96,0,0.302
+P1471,S109,Electronics,BrandE,Summer,Wed,BOGO,350,0.0,50,144,0,0.284
+P1326,S123,Sports,BrandE,Summer,Sat,Seasonal,20,0.15,17,48,1,0.257
+P1462,S103,Home,BrandE,Winter,Mon,None,120,0.0,73,236,0,0.274
+P1527,S120,Sports,BrandB,Summer,Tue,BOGO,35,0.05,5,11,0,0.372
+P1114,S125,Electronics,BrandB,Summer,Tue,BOGO,35,0.15,69,212,0,0.345
+P1202,S132,Sports,BrandD,Fall,Tue,None,35,0.0,28,89,0,0.342
+P1489,S128,Electronics,BrandD,Winter,Sat,Seasonal,20,0.0,6,18,0,0.323
+P1410,S103,Home,BrandC,Winter,Sun,None,50,0.1,30,75,0,0.149
+P1165,S121,Home,BrandC,Fall,Thu,Seasonal,120,0.15,15,50,0,0.346
+P1495,S118,Sports,BrandA,Winter,Mon,Flash Sale,35,0.3,72,191,0,0.017
+P1032,S100,Beauty,BrandA,Summer,Fri,Flash Sale,20,0.2,12,23,1,0.121
+P1337,S130,Electronics,BrandB,Winter,Mon,Flash Sale,20,0.05,69,240,0,0.405
+P1367,S124,Clothing,BrandD,Winter,Thu,None,350,0.3,45,86,1,0.088
+P1376,S121,Home,BrandD,Winter,Mon,BOGO,50,0.0,17,54,1,0.351
+P1066,S104,Clothing,BrandB,Winter,Fri,Flash Sale,350,0.1,49,132,0,0.291
+P1560,S108,Beauty,BrandB,Fall,Tue,None,35,0.0,20,31,1,0.399
+P1259,S112,Sports,BrandA,Summer,Sat,Flash Sale,50,0.2,12,36,0,0.101
+P1265,S115,Sports,BrandE,Winter,Fri,Flash Sale,350,0.2,73,182,1,0.249
+P1156,S104,Sports,BrandA,Summer,Wed,Flash Sale,50,0.05,40,106,0,0.223
+P1448,S128,Home,BrandD,Winter,Sun,Flash Sale,50,0.1,34,103,1,0.189
+P1163,S132,Beauty,BrandE,Winter,Fri,None,50,0.0,45,109,0,0.248
+P1222,S108,Sports,BrandE,Spring,Sun,Seasonal,350,0.3,72,222,0,0.117
+P1364,S112,Clothing,BrandB,Fall,Wed,None,35,0.2,27,52,0,0.075
+P1106,S107,Beauty,BrandC,Fall,Mon,BOGO,200,0.2,70,124,0,0.31
+P1023,S136,Home,BrandC,Fall,Tue,None,350,0.3,63,186,0,0.045
+P1254,S127,Electronics,BrandB,Winter,Sat,BOGO,80,0.15,65,136,1,0.212
+P1187,S106,Electronics,BrandB,Fall,Sat,Flash Sale,35,0.3,19,31,0,0.023
+P1502,S109,Clothing,BrandE,Summer,Sat,Flash Sale,120,0.3,58,169,0,0.108
+P1430,S139,Clothing,BrandE,Winter,Fri,None,35,0.05,74,115,0,0.199
+P1143,S123,Sports,BrandA,Spring,Fri,Flash Sale,120,0.15,37,87,0,0.176
+P1376,S138,Electronics,BrandC,Fall,Tue,None,120,0.15,34,85,0,0.128
+P1529,S116,Home,BrandB,Spring,Fri,Flash Sale,350,0.2,63,126,1,0.082
+P1431,S131,Beauty,BrandB,Summer,Thu,BOGO,50,0.1,65,154,1,0.328
+P1317,S134,Home,BrandE,Summer,Wed,BOGO,350,0.0,7,18,0,0.341
+P1168,S129,Home,BrandA,Summer,Sun,Seasonal,120,0.1,58,144,0,0.353
+P1502,S130,Home,BrandE,Fall,Thu,None,50,0.2,70,184,0,0.234
+P1263,S106,Electronics,BrandC,Winter,Tue,Flash Sale,80,0.05,22,76,0,0.368
+P1016,S123,Beauty,BrandC,Summer,Fri,BOGO,35,0.15,26,72,0,0.341
+P1240,S126,Clothing,BrandD,Winter,Sat,Flash Sale,350,0.1,22,46,0,0.28
+P1338,S122,Sports,BrandD,Winter,Wed,None,120,0.3,13,29,0,0.044
+P1138,S102,Electronics,BrandA,Winter,Mon,None,20,0.15,51,158,0,0.169
+P1480,S119,Beauty,BrandE,Summer,Fri,Seasonal,120,0.1,75,219,0,0.369
+P1444,S105,Home,BrandA,Winter,Mon,None,200,0.0,59,101,0,0.366
+P1462,S137,Clothing,BrandB,Summer,Thu,Flash Sale,80,0.2,34,118,0,0.078
+P1422,S103,Sports,BrandD,Winter,Sun,None,35,0.3,75,200,0,0.179
+P1296,S112,Sports,BrandE,Summer,Wed,Flash Sale,120,0.05,30,59,0,0.371
+P1437,S107,Sports,BrandA,Spring,Sat,None,80,0.05,17,52,0,0.273
+P1497,S119,Electronics,BrandB,Spring,Wed,None,35,0.05,45,154,1,0.263
+P1504,S113,Beauty,BrandA,Winter,Thu,Flash Sale,20,0.15,52,163,0,0.301
+P1415,S119,Home,BrandE,Winter,Thu,Flash Sale,350,0.05,10,27,0,0.325
+P1465,S128,Electronics,BrandE,Spring,Wed,BOGO,120,0.15,65,198,0,0.189
+P1061,S136,Clothing,BrandA,Fall,Thu,Flash Sale,200,0.05,31,106,0,0.202
+P1000,S105,Beauty,BrandE,Winter,Sat,Seasonal,50,0.0,61,208,1,0.366
+P1144,S119,Home,BrandB,Summer,Tue,None,80,0.15,8,27,0,0.251
+P1041,S128,Electronics,BrandC,Winter,Thu,None,120,0.0,62,168,0,0.326
+P1076,S115,Beauty,BrandE,Spring,Tue,Flash Sale,20,0.15,52,133,0,0.242
+P1331,S113,Electronics,BrandC,Fall,Thu,Flash Sale,50,0.15,78,146,1,0.266
+P1041,S116,Beauty,BrandC,Spring,Sun,None,20,0.05,70,192,0,0.286
+P1038,S103,Electronics,BrandE,Summer,Tue,None,200,0.0,22,76,1,0.303
+P1341,S104,Clothing,BrandD,Winter,Mon,None,50,0.05,13,34,0,0.347
+P1112,S104,Home,BrandC,Fall,Wed,Flash Sale,35,0.05,65,181,0,0.339
+P1581,S115,Clothing,BrandE,Summer,Tue,None,50,0.1,54,169,0,0.383
+P1402,S134,Sports,BrandC,Winter,Thu,Seasonal,20,0.0,51,85,0,0.42
+P1252,S109,Beauty,BrandA,Spring,Fri,BOGO,50,0.15,61,126,0,0.284
+P1215,S115,Clothing,BrandC,Summer,Mon,BOGO,20,0.3,76,216,0,0.114
+P1079,S136,Sports,BrandD,Fall,Mon,Seasonal,35,0.2,68,230,0,0.202
+P1508,S133,Sports,BrandC,Summer,Mon,BOGO,50,0.05,16,47,0,0.233
+P1255,S131,Sports,BrandC,Spring,Fri,BOGO,35,0.1,10,15,0,0.259
+P1565,S114,Sports,BrandC,Winter,Fri,None,35,0.1,60,92,0,0.307
+P1153,S139,Electronics,BrandA,Fall,Fri,Seasonal,50,0.15,32,110,0,0.312
+P1446,S109,Beauty,BrandD,Winter,Mon,Flash Sale,50,0.05,16,24,0,0.303
+P1183,S130,Electronics,BrandA,Winter,Mon,BOGO,35,0.3,79,129,0,0.097
+P1572,S112,Beauty,BrandE,Spring,Thu,BOGO,20,0.1,10,26,0,0.205
+P1136,S121,Sports,BrandD,Winter,Thu,BOGO,120,0.2,16,50,0,0.044
+P1145,S102,Home,BrandD,Summer,Wed,Flash Sale,50,0.1,71,194,0,0.19
+P1365,S136,Sports,BrandC,Winter,Thu,None,35,0.15,67,166,1,0.293
+P1169,S103,Clothing,BrandA,Spring,Fri,None,350,0.3,74,174,0,0.198
+P1397,S115,Clothing,BrandD,Winter,Tue,Seasonal,80,0.2,37,111,0,0.109
+P1023,S124,Beauty,BrandE,Winter,Thu,BOGO,200,0.1,45,115,0,0.362
+P1465,S134,Home,BrandB,Spring,Wed,Flash Sale,20,0.15,18,43,0,0.397
+P1091,S121,Beauty,BrandD,Fall,Fri,None,350,0.1,22,47,0,0.251
+P1220,S123,Sports,BrandE,Spring,Tue,Flash Sale,200,0.2,10,34,0,0.07
+P1564,S117,Beauty,BrandC,Winter,Thu,Flash Sale,35,0.3,33,63,1,0.244
+P1130,S131,Sports,BrandD,Spring,Thu,Seasonal,50,0.1,64,218,1,0.164
+P1004,S112,Electronics,BrandE,Summer,Sat,Flash Sale,200,0.1,62,131,0,0.348
+P1556,S127,Electronics,BrandB,Winter,Thu,BOGO,20,0.15,7,15,0,0.166
+P1176,S112,Electronics,BrandA,Spring,Wed,Seasonal,200,0.3,69,211,1,0.028
+P1114,S105,Electronics,BrandD,Spring,Thu,Seasonal,120,0.2,44,89,0,0.138
+P1302,S128,Sports,BrandE,Fall,Mon,Seasonal,50,0.2,26,72,1,0.068
+P1067,S123,Sports,BrandA,Summer,Mon,None,120,0.1,48,85,1,0.207
+P1372,S121,Sports,BrandA,Winter,Wed,BOGO,50,0.3,78,220,0,0.038
+P1178,S111,Sports,BrandE,Spring,Sun,BOGO,350,0.05,43,91,0,0.404
+P1024,S138,Sports,BrandC,Winter,Wed,None,20,0.1,8,18,0,0.246
+P1485,S129,Clothing,BrandD,Spring,Thu,Flash Sale,35,0.15,65,134,0,0.154
+P1362,S120,Home,BrandD,Fall,Sun,BOGO,80,0.2,48,165,0,0.11
+P1042,S106,Sports,BrandB,Fall,Fri,None,50,0.2,57,133,0,0.102
+P1513,S102,Home,BrandE,Spring,Wed,None,20,0.15,45,102,0,0.305
+P1560,S116,Home,BrandA,Winter,Fri,Flash Sale,120,0.0,32,65,0,0.288
+P1044,S110,Sports,BrandA,Winter,Mon,BOGO,50,0.15,7,20,0,0.222
+P1319,S121,Clothing,BrandA,Fall,Mon,BOGO,350,0.05,57,166,1,0.235
+P1461,S107,Beauty,BrandB,Summer,Fri,Flash Sale,350,0.2,57,198,0,0.25
+P1230,S107,Clothing,BrandB,Spring,Fri,None,120,0.0,64,119,0,0.304
+P1393,S126,Clothing,BrandB,Summer,Fri,Seasonal,120,0.3,39,121,0,0.007
+P1249,S111,Sports,BrandC,Fall,Wed,BOGO,120,0.0,61,152,0,0.393
+P1473,S115,Home,BrandE,Spring,Wed,Flash Sale,200,0.05,38,90,0,0.342
+P1209,S118,Beauty,BrandB,Spring,Sun,Seasonal,50,0.2,12,41,0,0.324
+P1484,S122,Beauty,BrandE,Winter,Wed,Flash Sale,50,0.05,23,67,1,0.278
+P1352,S139,Electronics,BrandD,Spring,Wed,Seasonal,20,0.3,54,144,0,0.122
+P1331,S134,Electronics,BrandD,Winter,Tue,BOGO,20,0.05,71,115,0,0.225
+P1363,S133,Home,BrandE,Summer,Tue,Flash Sale,20,0.0,41,135,0,0.245
+P1285,S111,Beauty,BrandD,Summer,Mon,None,20,0.15,41,135,0,0.179
+P1070,S113,Beauty,BrandB,Winter,Wed,Seasonal,35,0.15,15,27,0,0.169
+P1572,S111,Electronics,BrandD,Fall,Wed,None,350,0.15,39,91,0,0.203
+P1053,S109,Clothing,BrandD,Spring,Sun,None,350,0.1,6,17,0,0.363
+P1234,S121,Sports,BrandA,Winter,Fri,None,350,0.3,25,77,0,0.157
+P1221,S125,Sports,BrandE,Winter,Wed,Flash Sale,20,0.2,63,164,0,0.189
+P1185,S104,Electronics,BrandB,Fall,Thu,Seasonal,120,0.05,39,72,0,0.432
+P1561,S107,Beauty,BrandE,Winter,Tue,Seasonal,35,0.15,5,9,0,0.109
+P1419,S106,Clothing,BrandE,Fall,Sat,BOGO,350,0.1,48,134,0,0.228
+P1480,S111,Clothing,BrandB,Summer,Fri,Flash Sale,350,0.3,42,88,0,-0.002
+P1417,S135,Sports,BrandA,Spring,Thu,BOGO,120,0.2,34,104,0,0.176
+P1264,S123,Beauty,BrandE,Summer,Sun,Seasonal,35,0.05,36,57,0,0.213
+P1557,S110,Sports,BrandC,Fall,Fri,None,200,0.1,30,96,0,0.251
+P1238,S130,Sports,BrandA,Winter,Tue,None,50,0.2,51,86,0,0.048
+P1216,S114,Beauty,BrandD,Spring,Tue,Flash Sale,200,0.15,62,93,1,0.345
+P1587,S101,Sports,BrandC,Fall,Thu,BOGO,80,0.15,13,32,0,0.342
+P1281,S101,Home,BrandA,Winter,Fri,Seasonal,50,0.3,34,97,0,0.203
+P1165,S122,Electronics,BrandD,Summer,Thu,None,120,0.1,48,122,0,0.415
+P1179,S139,Sports,BrandA,Spring,Thu,Flash Sale,35,0.3,67,128,1,0.184
+P1350,S112,Beauty,BrandB,Fall,Mon,Seasonal,20,0.1,50,167,0,0.332
+P1225,S121,Sports,BrandB,Spring,Sun,BOGO,350,0.05,11,33,0,0.251
+P1136,S137,Clothing,BrandA,Fall,Fri,Flash Sale,350,0.1,77,216,0,0.197
+P1251,S121,Sports,BrandD,Winter,Wed,None,200,0.2,24,44,0,0.157
+P1372,S116,Clothing,BrandA,Winter,Wed,Seasonal,35,0.1,35,53,0,0.251
+P1167,S112,Beauty,BrandB,Fall,Fri,BOGO,350,0.15,20,33,0,0.124
+P1068,S122,Electronics,BrandA,Winter,Wed,None,120,0.0,38,99,1,0.309
+P1109,S134,Home,BrandC,Summer,Wed,Seasonal,200,0.1,74,126,0,0.198
+P1111,S106,Home,BrandD,Spring,Tue,BOGO,80,0.1,46,149,0,0.261
+P1395,S109,Electronics,BrandE,Spring,Tue,BOGO,120,0.15,54,92,0,0.189
+P1137,S113,Electronics,BrandE,Spring,Sat,Flash Sale,20,0.1,58,133,0,0.263
+P1475,S115,Home,BrandE,Fall,Sun,Flash Sale,350,0.1,43,145,0,0.227
+P1431,S111,Electronics,BrandA,Winter,Sun,BOGO,35,0.0,33,77,0,0.388
+P1376,S112,Sports,BrandD,Fall,Wed,None,35,0.1,69,164,0,0.204
+P1056,S122,Beauty,BrandB,Fall,Sat,Seasonal,80,0.05,25,61,0,0.306
+P1400,S100,Sports,BrandA,Winter,Thu,Flash Sale,350,0.05,27,47,0,0.361
+P1566,S101,Sports,BrandA,Summer,Fri,Seasonal,80,0.1,69,189,0,0.315
+P1566,S119,Electronics,BrandA,Fall,Fri,Seasonal,120,0.1,14,37,0,0.201
+P1026,S117,Beauty,BrandB,Spring,Tue,None,80,0.05,50,133,0,0.297
+P1228,S101,Home,BrandA,Spring,Thu,BOGO,120,0.3,7,16,0,0.065
+P1123,S136,Home,BrandA,Spring,Tue,BOGO,20,0.15,49,103,0,0.179
+P1064,S135,Sports,BrandD,Spring,Wed,None,20,0.15,46,147,0,0.281
+P1414,S125,Electronics,BrandB,Winter,Sat,Seasonal,50,0.2,19,58,0,0.171
+P1521,S127,Electronics,BrandC,Fall,Thu,BOGO,120,0.0,5,15,1,0.267
+P1368,S102,Clothing,BrandC,Fall,Sat,None,50,0.3,78,264,0,0.07
+P1535,S134,Clothing,BrandE,Fall,Sat,BOGO,20,0.2,55,85,0,0.304
+P1255,S111,Clothing,BrandA,Winter,Tue,Flash Sale,20,0.2,60,188,0,0.306
+P1379,S126,Sports,BrandD,Fall,Tue,None,80,0.1,46,142,0,0.362
+P1525,S124,Clothing,BrandD,Fall,Sun,Flash Sale,350,0.3,32,79,1,-0.136
+P1485,S122,Sports,BrandC,Summer,Tue,Flash Sale,120,0.3,42,77,0,-0.026
+P1583,S104,Sports,BrandA,Fall,Thu,Seasonal,20,0.1,15,39,0,0.144
+P1356,S109,Electronics,BrandD,Winter,Sat,Seasonal,350,0.15,74,243,0,0.211
+P1440,S104,Sports,BrandC,Fall,Thu,Seasonal,35,0.15,17,44,0,0.245
+P1095,S125,Home,BrandD,Spring,Mon,Flash Sale,20,0.2,31,67,0,0.299
+P1336,S107,Clothing,BrandE,Summer,Thu,BOGO,120,0.3,15,39,0,-0.049
+P1581,S106,Home,BrandA,Summer,Wed,None,35,0.2,7,13,0,0.152
+P1442,S124,Electronics,BrandC,Spring,Wed,Flash Sale,120,0.2,64,220,0,0.294
+P1458,S125,Electronics,BrandB,Fall,Fri,BOGO,20,0.0,57,130,0,0.355
+P1535,S118,Home,BrandB,Spring,Fri,Seasonal,50,0.15,26,83,0,0.23
+P1109,S126,Home,BrandE,Fall,Sun,None,80,0.05,12,29,0,0.305
+P1212,S136,Electronics,BrandC,Fall,Sat,Flash Sale,20,0.0,75,192,0,0.268
+P1425,S102,Clothing,BrandC,Fall,Sun,None,50,0.3,8,19,0,0.22
+P1019,S106,Sports,BrandE,Winter,Wed,BOGO,20,0.3,25,40,0,0.051
+P1481,S131,Electronics,BrandE,Spring,Mon,None,200,0.3,49,74,1,0.138
+P1565,S116,Sports,BrandE,Fall,Thu,BOGO,120,0.15,62,100,0,0.282
+P1381,S119,Sports,BrandD,Winter,Tue,BOGO,200,0.3,38,111,0,0.213
+P1252,S109,Electronics,BrandE,Summer,Mon,None,80,0.0,40,131,0,0.334
+P1131,S108,Clothing,BrandE,Fall,Fri,None,35,0.05,25,59,0,0.302
+P1388,S115,Clothing,BrandA,Winter,Tue,None,200,0.2,76,132,0,0.296
+P1437,S122,Electronics,BrandD,Fall,Fri,Seasonal,50,0.15,14,21,0,0.126
+P1385,S138,Sports,BrandE,Summer,Tue,BOGO,80,0.2,49,91,0,0.138
+P1077,S100,Clothing,BrandE,Fall,Sun,Flash Sale,80,0.0,41,139,0,0.318
+P1445,S112,Beauty,BrandC,Spring,Fri,BOGO,350,0.05,65,122,0,0.329
+P1057,S128,Clothing,BrandC,Fall,Mon,Flash Sale,80,0.15,32,59,0,0.322
+P1253,S117,Beauty,BrandE,Summer,Sun,BOGO,200,0.0,52,139,0,0.374
+P1381,S101,Sports,BrandE,Winter,Tue,Seasonal,80,0.1,51,148,0,0.275
+P1473,S132,Home,BrandB,Fall,Mon,Flash Sale,120,0.05,62,196,0,0.416
+P1271,S121,Home,BrandB,Summer,Mon,BOGO,20,0.1,59,95,0,0.435
+P1571,S123,Clothing,BrandD,Spring,Fri,BOGO,35,0.3,10,21,0,0.202
+P1375,S112,Beauty,BrandA,Fall,Sun,Seasonal,200,0.05,34,84,0,0.315
+P1007,S123,Sports,BrandD,Summer,Wed,Flash Sale,35,0.2,45,137,1,0.065
+P1550,S120,Clothing,BrandA,Winter,Fri,Flash Sale,20,0.2,66,137,0,0.27
+P1100,S101,Home,BrandC,Winter,Sun,BOGO,50,0.3,52,168,0,0.168
+P1279,S123,Electronics,BrandB,Spring,Thu,Flash Sale,50,0.3,46,109,0,0.197
+P1493,S109,Sports,BrandB,Summer,Tue,None,120,0.1,33,88,0,0.32
+P1035,S102,Electronics,BrandA,Spring,Tue,None,35,0.1,70,142,0,0.285
+P1375,S101,Beauty,BrandC,Summer,Thu,BOGO,20,0.15,74,214,0,0.252
+P1012,S102,Home,BrandB,Spring,Sat,Flash Sale,120,0.0,8,17,0,0.252
+P1002,S139,Beauty,BrandD,Summer,Wed,None,35,0.0,39,92,0,0.364
+P1141,S121,Beauty,BrandA,Spring,Tue,Seasonal,20,0.2,56,159,0,0.119
+P1005,S120,Clothing,BrandD,Summer,Thu,None,35,0.3,13,36,0,0.092
+P1377,S123,Electronics,BrandB,Spring,Thu,Seasonal,200,0.2,33,83,0,0.083
+P1484,S108,Clothing,BrandD,Fall,Thu,Flash Sale,50,0.15,68,208,0,0.226
+P1198,S111,Sports,BrandB,Fall,Tue,Flash Sale,350,0.05,68,209,0,0.384
+P1058,S108,Beauty,BrandA,Summer,Tue,Flash Sale,50,0.15,78,129,0,0.353
+P1497,S133,Electronics,BrandE,Summer,Wed,Flash Sale,350,0.3,57,197,0,0.168
+P1104,S135,Sports,BrandC,Fall,Mon,None,200,0.15,41,93,0,0.191
+P1595,S137,Beauty,BrandA,Fall,Mon,None,80,0.2,70,110,0,0.212
+P1201,S134,Home,BrandE,Fall,Tue,Flash Sale,80,0.0,77,146,0,0.443
+P1164,S122,Beauty,BrandA,Summer,Tue,Seasonal,200,0.05,76,126,0,0.416
+P1015,S100,Home,BrandD,Winter,Fri,BOGO,350,0.2,78,251,1,0.199
+P1085,S131,Clothing,BrandB,Spring,Thu,BOGO,80,0.3,17,55,0,0.174
+P1045,S114,Sports,BrandB,Fall,Sun,None,80,0.15,69,215,0,0.384
+P1473,S138,Electronics,BrandE,Spring,Fri,Seasonal,120,0.2,37,96,0,0.152
+P1460,S122,Electronics,BrandD,Spring,Wed,None,120,0.1,62,157,0,0.344
+P1591,S112,Home,BrandD,Summer,Sun,Seasonal,200,0.0,38,99,0,0.217
+P1539,S112,Sports,BrandD,Winter,Sun,BOGO,120,0.15,60,187,0,0.169
+P1568,S115,Beauty,BrandA,Fall,Sat,Seasonal,120,0.05,61,133,0,0.227
+P1204,S120,Electronics,BrandA,Winter,Mon,BOGO,20,0.05,26,88,0,0.336
+P1160,S132,Home,BrandD,Summer,Sun,Flash Sale,80,0.05,5,15,0,0.25
+P1067,S133,Beauty,BrandB,Spring,Mon,Flash Sale,20,0.2,43,135,1,0.139
+P1296,S118,Sports,BrandB,Winter,Wed,BOGO,50,0.05,79,235,1,0.236
+P1074,S109,Clothing,BrandC,Spring,Sun,Flash Sale,200,0.15,32,95,0,0.195
+P1470,S118,Beauty,BrandD,Summer,Thu,BOGO,350,0.15,39,88,1,0.233
+P1102,S134,Electronics,BrandB,Summer,Fri,BOGO,50,0.3,52,100,0,0.042
+P1188,S139,Beauty,BrandB,Winter,Sat,Flash Sale,20,0.3,28,81,0,0.125
+P1301,S133,Clothing,BrandC,Fall,Sat,Seasonal,350,0.3,77,260,0,0.132
+P1007,S107,Home,BrandC,Summer,Mon,None,120,0.3,14,25,1,0.254
+P1106,S104,Electronics,BrandD,Spring,Fri,Seasonal,50,0.3,31,100,0,-0.079
+P1327,S107,Sports,BrandC,Summer,Thu,Flash Sale,20,0.15,69,134,1,0.26
+P1309,S133,Clothing,BrandA,Winter,Mon,BOGO,120,0.15,55,181,0,0.19
+P1271,S121,Beauty,BrandE,Fall,Tue,Flash Sale,120,0.05,76,220,1,0.398
+P1262,S102,Electronics,BrandB,Spring,Mon,Seasonal,50,0.2,41,77,0,0.266
+P1273,S119,Clothing,BrandA,Fall,Sun,Seasonal,350,0.3,58,158,0,-0.001
+P1560,S135,Electronics,BrandB,Fall,Sun,BOGO,80,0.0,31,97,0,0.421
+P1022,S134,Clothing,BrandB,Winter,Sat,None,350,0.0,66,191,0,0.425
+P1423,S127,Clothing,BrandB,Winter,Sun,BOGO,200,0.1,70,129,0,0.342
+P1488,S127,Home,BrandA,Summer,Thu,None,350,0.2,60,190,0,0.315
+P1437,S107,Sports,BrandD,Winter,Fri,Seasonal,80,0.0,34,107,0,0.309
+P1276,S117,Sports,BrandD,Fall,Thu,None,80,0.05,31,99,0,0.231
+P1594,S121,Clothing,BrandA,Fall,Sun,None,200,0.1,21,37,0,0.302
+P1460,S105,Clothing,BrandE,Summer,Tue,Flash Sale,200,0.0,70,107,0,0.418
+P1046,S135,Electronics,BrandA,Winter,Tue,None,200,0.05,43,110,0,0.359
+P1180,S120,Clothing,BrandC,Summer,Wed,BOGO,80,0.05,12,20,0,0.346
+P1230,S123,Sports,BrandE,Fall,Sun,None,50,0.15,55,117,0,0.334
+P1160,S128,Home,BrandB,Summer,Fri,Seasonal,350,0.05,66,202,1,0.271
+P1275,S120,Sports,BrandC,Summer,Wed,Flash Sale,200,0.2,33,80,0,0.102
+P1390,S128,Beauty,BrandC,Fall,Wed,BOGO,120,0.15,22,51,0,0.403
+P1385,S129,Clothing,BrandC,Winter,Thu,None,20,0.15,78,239,0,0.141
+P1235,S136,Electronics,BrandB,Spring,Thu,BOGO,20,0.2,69,231,0,0.286
+P1304,S120,Electronics,BrandD,Fall,Tue,BOGO,50,0.05,73,214,0,0.319
+P1022,S129,Clothing,BrandC,Winter,Sun,Seasonal,20,0.05,29,49,0,0.383
+P1510,S102,Home,BrandB,Winter,Sat,None,120,0.1,40,103,1,0.38
+P1559,S139,Clothing,BrandB,Fall,Thu,None,80,0.2,16,33,0,0.058
+P1443,S138,Home,BrandB,Winter,Mon,Flash Sale,350,0.2,58,179,0,0.291
+P1110,S124,Home,BrandD,Fall,Sun,BOGO,35,0.3,64,170,0,0.178
+P1343,S113,Home,BrandB,Fall,Thu,None,35,0.3,45,80,0,0.009
+P1101,S125,Beauty,BrandC,Summer,Wed,Seasonal,50,0.3,44,107,0,0.15
+P1091,S132,Electronics,BrandD,Summer,Wed,Flash Sale,200,0.3,14,43,0,0.158
+P1521,S121,Electronics,BrandC,Winter,Sun,Flash Sale,35,0.2,8,25,0,0.164
+P1148,S107,Beauty,BrandD,Spring,Tue,Flash Sale,120,0.2,64,168,0,0.293
+P1240,S133,Clothing,BrandB,Summer,Thu,BOGO,20,0.3,48,130,0,0.1
+P1035,S101,Beauty,BrandB,Summer,Sun,Seasonal,350,0.0,51,133,0,0.254
+P1037,S128,Beauty,BrandC,Summer,Sun,BOGO,50,0.3,39,105,0,0.108
+P1537,S135,Sports,BrandB,Spring,Wed,Seasonal,80,0.15,49,171,0,0.174
+P1536,S121,Home,BrandD,Summer,Wed,None,200,0.1,75,171,1,0.282
+P1190,S112,Sports,BrandE,Winter,Sun,Seasonal,35,0.3,78,188,0,0.138
+P1509,S118,Clothing,BrandC,Spring,Mon,BOGO,350,0.0,75,120,0,0.362
+P1185,S107,Home,BrandD,Spring,Fri,BOGO,50,0.15,23,68,0,0.27
+P1505,S133,Sports,BrandC,Spring,Mon,Seasonal,50,0.15,20,35,0,0.204
+P1062,S124,Home,BrandA,Summer,Fri,None,20,0.0,27,43,0,0.315
+P1027,S139,Clothing,BrandD,Summer,Fri,Seasonal,20,0.0,73,200,0,0.352
+P1443,S120,Electronics,BrandA,Summer,Tue,None,50,0.1,66,108,0,0.194
+P1467,S108,Electronics,BrandB,Summer,Sun,Flash Sale,80,0.3,16,43,0,-0.014
+P1422,S135,Beauty,BrandC,Spring,Tue,None,20,0.3,59,139,0,0.154
+P1428,S108,Beauty,BrandA,Summer,Sun,None,35,0.15,44,150,1,0.381
+P1554,S127,Beauty,BrandD,Summer,Mon,Seasonal,35,0.05,18,43,1,0.358
+P1464,S137,Clothing,BrandD,Summer,Sun,BOGO,20,0.05,21,59,0,0.294
+P1569,S135,Sports,BrandB,Spring,Mon,BOGO,50,0.2,39,108,0,0.205
+P1558,S113,Sports,BrandC,Summer,Mon,None,35,0.05,47,131,0,0.208
+P1195,S113,Home,BrandD,Summer,Sun,BOGO,80,0.15,61,204,0,0.142
+P1430,S114,Sports,BrandE,Spring,Thu,Seasonal,200,0.3,68,168,0,0.043
+P1440,S115,Home,BrandD,Spring,Tue,BOGO,200,0.1,35,105,1,0.358
+P1166,S109,Electronics,BrandD,Winter,Sun,Seasonal,50,0.0,54,187,0,0.377
+P1244,S113,Home,BrandE,Summer,Mon,Flash Sale,350,0.05,28,66,0,0.283
+P1080,S119,Clothing,BrandD,Summer,Sun,Seasonal,200,0.0,27,65,0,0.397
+P1428,S117,Beauty,BrandD,Spring,Tue,BOGO,350,0.3,29,44,0,0.106
+P1411,S124,Beauty,BrandB,Fall,Tue,Flash Sale,350,0.2,60,206,0,0.168
+P1487,S138,Clothing,BrandA,Spring,Tue,BOGO,350,0.3,52,116,1,0.012
+P1081,S113,Home,BrandA,Spring,Fri,Seasonal,200,0.3,29,54,1,0.184
+P1143,S104,Home,BrandD,Summer,Wed,BOGO,50,0.05,65,145,0,0.339
+P1012,S126,Beauty,BrandA,Spring,Fri,Seasonal,50,0.2,28,69,0,0.223
+P1243,S128,Electronics,BrandA,Spring,Tue,None,80,0.15,45,113,0,0.263
+P1103,S118,Beauty,BrandA,Winter,Fri,None,50,0.2,21,39,1,0.114
+P1299,S130,Home,BrandE,Summer,Mon,Flash Sale,35,0.1,9,21,0,0.375
+P1457,S121,Sports,BrandA,Winter,Fri,Seasonal,200,0.05,50,98,0,0.207
+P1159,S110,Home,BrandB,Summer,Thu,Flash Sale,120,0.05,69,196,0,0.335
+P1280,S134,Clothing,BrandE,Spring,Sun,Flash Sale,200,0.1,70,213,0,0.371
+P1531,S108,Home,BrandA,Fall,Mon,Flash Sale,350,0.2,76,223,0,0.138
+P1514,S136,Sports,BrandB,Spring,Sat,None,200,0.2,23,45,0,0.251
+P1221,S121,Beauty,BrandB,Spring,Tue,Flash Sale,200,0.3,19,46,0,0.003
+P1260,S128,Clothing,BrandE,Winter,Sat,Seasonal,35,0.2,45,144,0,0.284
+P1510,S117,Clothing,BrandB,Winter,Sat,Seasonal,50,0.3,38,91,0,0.159
+P1082,S134,Beauty,BrandE,Summer,Tue,None,35,0.05,11,22,0,0.285
+P1505,S129,Home,BrandC,Spring,Thu,None,200,0.15,48,144,0,0.225
+P1078,S122,Beauty,BrandD,Fall,Sat,Seasonal,35,0.05,23,78,0,0.226
+P1510,S117,Clothing,BrandD,Fall,Tue,BOGO,80,0.2,65,127,0,0.277
+P1029,S117,Beauty,BrandE,Fall,Mon,BOGO,35,0.15,18,43,0,0.142
+P1092,S106,Home,BrandE,Spring,Thu,Seasonal,35,0.0,65,101,0,0.341
+P1369,S110,Electronics,BrandB,Summer,Wed,BOGO,120,0.05,57,160,0,0.409
+P1330,S118,Beauty,BrandA,Summer,Fri,BOGO,35,0.1,79,173,0,0.291
+P1275,S101,Clothing,BrandB,Spring,Sat,BOGO,35,0.15,70,149,0,0.236
+P1419,S105,Electronics,BrandE,Fall,Thu,None,35,0.3,26,60,0,0.204
+P1068,S105,Sports,BrandC,Summer,Mon,Flash Sale,350,0.15,35,55,0,0.117
+P1336,S118,Clothing,BrandB,Summer,Sun,Flash Sale,20,0.1,19,48,0,0.214
+P1486,S109,Sports,BrandD,Winter,Tue,None,35,0.0,24,47,1,0.28
+P1197,S106,Clothing,BrandD,Summer,Mon,Flash Sale,35,0.15,71,171,0,0.217
+P1341,S129,Beauty,BrandD,Fall,Wed,BOGO,35,0.15,16,49,0,0.095
+P1159,S107,Electronics,BrandB,Winter,Fri,Seasonal,80,0.2,38,92,0,0.281
+P1004,S133,Electronics,BrandA,Fall,Sat,None,35,0.05,78,187,0,0.33
+P1276,S103,Beauty,BrandC,Spring,Tue,BOGO,120,0.05,29,48,0,0.366
+P1418,S112,Electronics,BrandE,Summer,Sat,Seasonal,80,0.05,40,103,0,0.22
+P1450,S114,Clothing,BrandD,Spring,Fri,BOGO,50,0.05,23,55,0,0.282
+P1030,S105,Clothing,BrandE,Summer,Wed,Flash Sale,80,0.3,20,64,0,-0.013
+P1299,S112,Beauty,BrandA,Fall,Fri,None,35,0.0,52,144,0,0.406
+P1381,S105,Electronics,BrandA,Fall,Tue,BOGO,120,0.15,55,153,1,0.331
+P1404,S101,Home,BrandB,Fall,Tue,Flash Sale,200,0.05,60,179,0,0.217
+P1479,S133,Electronics,BrandD,Summer,Sat,Flash Sale,350,0.15,34,103,1,0.366
+P1394,S114,Sports,BrandB,Winter,Thu,None,120,0.15,47,105,0,0.24
+P1085,S113,Electronics,BrandE,Summer,Sun,Seasonal,350,0.3,48,73,0,0.099
+P1200,S113,Clothing,BrandA,Fall,Fri,Flash Sale,20,0.15,14,36,0,0.171
+P1445,S103,Sports,BrandA,Fall,Sat,Flash Sale,50,0.3,62,128,0,0.007
+P1512,S121,Home,BrandE,Summer,Sat,Flash Sale,50,0.2,54,113,0,0.219
+P1337,S133,Sports,BrandE,Summer,Mon,None,120,0.15,20,69,0,0.324
+P1054,S107,Clothing,BrandE,Summer,Sun,Seasonal,35,0.3,7,11,0,0.106
+P1266,S121,Home,BrandC,Spring,Wed,BOGO,20,0.0,33,90,1,0.417
+P1304,S110,Electronics,BrandE,Winter,Sun,Flash Sale,80,0.1,42,102,1,0.34
+P1029,S107,Electronics,BrandC,Fall,Wed,Flash Sale,120,0.0,36,113,0,0.358
+P1012,S115,Beauty,BrandC,Winter,Fri,Flash Sale,80,0.15,31,66,0,0.206
+P1301,S119,Sports,BrandB,Spring,Sun,Seasonal,80,0.1,11,33,0,0.361
+P1319,S108,Electronics,BrandA,Spring,Mon,BOGO,350,0.15,26,86,0,0.257
+P1560,S107,Beauty,BrandE,Summer,Sun,None,80,0.05,68,140,0,0.347
+P1368,S130,Sports,BrandE,Winter,Mon,BOGO,35,0.1,22,65,0,0.252
+P1111,S128,Beauty,BrandE,Winter,Mon,Seasonal,350,0.1,7,21,0,0.346
+P1527,S111,Clothing,BrandD,Summer,Mon,Flash Sale,35,0.1,22,70,1,0.264
+P1425,S103,Clothing,BrandC,Fall,Thu,Seasonal,200,0.0,57,153,0,0.294
+P1037,S132,Electronics,BrandE,Winter,Tue,Seasonal,50,0.3,62,188,1,0.072
+P1467,S113,Clothing,BrandE,Fall,Thu,BOGO,200,0.05,46,108,0,0.432
+P1316,S135,Electronics,BrandD,Spring,Sun,Flash Sale,35,0.1,21,47,0,0.359
+P1149,S122,Beauty,BrandB,Summer,Sun,Seasonal,50,0.2,78,218,0,0.199
+P1253,S108,Electronics,BrandD,Spring,Sat,BOGO,20,0.05,45,105,0,0.206
+P1262,S108,Clothing,BrandC,Spring,Thu,None,200,0.0,69,160,0,0.4
+P1451,S103,Sports,BrandE,Spring,Thu,Seasonal,120,0.05,37,125,0,0.296
+P1431,S119,Sports,BrandC,Spring,Wed,None,350,0.2,69,173,0,0.221
+P1078,S128,Home,BrandE,Spring,Sun,Flash Sale,50,0.0,66,172,0,0.354
+P1076,S130,Electronics,BrandD,Summer,Thu,Seasonal,80,0.3,72,160,0,0.134
+P1202,S102,Beauty,BrandE,Winter,Sun,Seasonal,20,0.15,21,60,0,0.321
+P1464,S114,Beauty,BrandD,Summer,Sat,None,80,0.2,75,230,0,0.181
+P1156,S122,Electronics,BrandB,Winter,Wed,BOGO,350,0.15,56,111,0,0.22
+P1319,S120,Electronics,BrandA,Summer,Thu,Seasonal,200,0.2,55,126,0,0.25
+P1278,S101,Home,BrandC,Winter,Thu,BOGO,350,0.3,36,61,0,-0.03
+P1227,S122,Sports,BrandB,Spring,Mon,BOGO,350,0.15,33,96,0,0.039
+P1489,S103,Beauty,BrandB,Summer,Thu,Seasonal,50,0.0,48,81,0,0.407
+P1011,S100,Beauty,BrandB,Winter,Fri,Flash Sale,35,0.0,40,68,0,0.471
+P1526,S136,Home,BrandE,Fall,Sun,None,35,0.0,59,173,0,0.316
+P1298,S128,Home,BrandC,Winter,Thu,Flash Sale,50,0.2,62,103,0,0.349
+P1412,S113,Clothing,BrandD,Spring,Sat,BOGO,120,0.3,62,157,1,-0.004
+P1062,S135,Clothing,BrandE,Winter,Fri,BOGO,350,0.2,39,98,0,0.248
+P1015,S139,Electronics,BrandC,Summer,Tue,Flash Sale,20,0.2,68,210,0,0.174
+P1148,S134,Beauty,BrandB,Winter,Sat,None,50,0.0,73,246,0,0.412
+P1536,S135,Home,BrandE,Spring,Sun,BOGO,200,0.3,34,78,0,0.041
+P1463,S110,Electronics,BrandE,Winter,Thu,None,80,0.15,20,53,0,0.27
+P1073,S138,Home,BrandD,Winter,Thu,BOGO,120,0.05,5,17,0,0.298
+P1500,S128,Electronics,BrandB,Summer,Fri,None,35,0.1,49,80,0,0.336
+P1562,S135,Beauty,BrandA,Summer,Wed,None,80,0.2,64,176,0,0.095
+P1013,S116,Clothing,BrandB,Fall,Mon,None,120,0.0,5,17,0,0.407
+P1102,S125,Electronics,BrandE,Fall,Fri,Seasonal,35,0.0,25,84,1,0.359
+P1490,S126,Sports,BrandD,Summer,Mon,Flash Sale,80,0.0,33,80,0,0.261
+P1155,S113,Home,BrandC,Winter,Fri,None,350,0.3,17,57,0,-0.031
+P1188,S127,Clothing,BrandD,Spring,Thu,BOGO,35,0.05,41,87,1,0.345
+P1180,S120,Sports,BrandB,Winter,Wed,Seasonal,120,0.2,31,92,0,0.29
+P1256,S139,Electronics,BrandE,Spring,Sun,BOGO,80,0.2,29,84,0,0.222
+P1309,S105,Home,BrandA,Fall,Fri,Flash Sale,350,0.0,72,113,0,0.379
+P1144,S117,Beauty,BrandC,Summer,Thu,None,120,0.1,55,152,0,0.335
+P1175,S125,Beauty,BrandE,Winter,Mon,Seasonal,350,0.05,38,73,0,0.191
+P1175,S129,Beauty,BrandA,Winter,Mon,None,80,0.0,28,82,0,0.291
+P1195,S116,Electronics,BrandD,Spring,Sun,BOGO,50,0.1,71,170,1,0.226
+P1483,S134,Beauty,BrandC,Summer,Sun,BOGO,80,0.3,67,171,0,0.154
+P1307,S137,Clothing,BrandD,Fall,Sun,Flash Sale,80,0.05,44,96,0,0.233
+P1057,S129,Home,BrandB,Spring,Sat,BOGO,120,0.05,75,149,0,0.241
+P1334,S114,Electronics,BrandC,Fall,Sun,Flash Sale,35,0.2,69,219,1,0.254
+P1167,S113,Beauty,BrandC,Spring,Sat,Seasonal,20,0.2,56,147,0,0.258
+P1259,S123,Sports,BrandB,Winter,Sat,BOGO,20,0.0,70,218,1,0.25
+P1442,S100,Electronics,BrandA,Spring,Mon,Seasonal,50,0.0,62,170,0,0.294
+P1501,S133,Clothing,BrandE,Fall,Sun,Flash Sale,80,0.15,72,108,0,0.175
+P1451,S103,Clothing,BrandD,Summer,Tue,Flash Sale,350,0.0,21,41,0,0.345
+P1375,S129,Beauty,BrandE,Winter,Wed,Seasonal,35,0.2,17,28,1,0.185
+P1047,S111,Home,BrandE,Spring,Sun,None,200,0.05,22,76,0,0.26
+P1273,S134,Electronics,BrandA,Fall,Sun,None,80,0.3,17,55,0,0.212
+P1287,S126,Electronics,BrandE,Winter,Sat,Seasonal,120,0.15,46,133,0,0.131
+P1514,S103,Sports,BrandB,Fall,Fri,Seasonal,20,0.1,18,46,0,0.232
+P1067,S120,Beauty,BrandD,Fall,Mon,None,80,0.1,73,233,0,0.313
+P1197,S108,Sports,BrandD,Winter,Fri,None,20,0.05,70,227,0,0.335
+P1470,S105,Clothing,BrandE,Winter,Sun,Seasonal,350,0.15,31,53,1,0.296
+P1029,S121,Electronics,BrandD,Spring,Thu,Flash Sale,120,0.1,19,64,0,0.369
+P1361,S133,Beauty,BrandE,Summer,Wed,None,20,0.05,71,121,1,0.416
+P1106,S101,Home,BrandE,Winter,Thu,Flash Sale,200,0.3,30,95,0,0.134
+P1158,S132,Electronics,BrandD,Summer,Fri,Flash Sale,200,0.15,70,184,0,0.253
+P1038,S131,Clothing,BrandC,Spring,Wed,BOGO,50,0.15,16,51,0,0.237
+P1137,S108,Clothing,BrandD,Winter,Thu,BOGO,80,0.0,7,21,0,0.381
+P1434,S108,Clothing,BrandD,Fall,Sat,BOGO,200,0.05,73,139,0,0.366
+P1535,S101,Clothing,BrandE,Fall,Wed,None,120,0.3,11,28,0,0.165
+P1546,S117,Sports,BrandC,Winter,Mon,Flash Sale,35,0.2,50,149,1,0.133
+P1135,S101,Clothing,BrandD,Spring,Thu,BOGO,80,0.05,25,43,0,0.448
+P1149,S109,Clothing,BrandB,Spring,Sat,Flash Sale,120,0.05,5,17,1,0.264
+P1465,S134,Beauty,BrandC,Winter,Wed,None,50,0.3,25,67,0,-0.053
+P1300,S100,Home,BrandC,Winter,Fri,BOGO,200,0.05,26,53,1,0.4
+P1344,S107,Electronics,BrandA,Fall,Sat,None,35,0.05,25,47,0,0.304
+P1341,S109,Home,BrandA,Summer,Wed,BOGO,350,0.3,31,59,0,0.167
+P1243,S124,Home,BrandA,Spring,Wed,None,120,0.15,17,38,0,0.356
+P1292,S102,Clothing,BrandA,Winter,Sun,None,35,0.0,12,31,0,0.354
+P1533,S112,Beauty,BrandD,Spring,Fri,Flash Sale,20,0.2,75,140,0,0.262
+P1006,S129,Home,BrandC,Summer,Wed,Seasonal,120,0.05,12,30,0,0.406
+P1440,S137,Electronics,BrandB,Winter,Sat,Seasonal,120,0.3,54,81,0,0.048
+P1099,S124,Sports,BrandC,Fall,Thu,BOGO,350,0.15,44,114,0,0.297
+P1483,S115,Electronics,BrandA,Fall,Fri,Flash Sale,120,0.0,70,243,0,0.431
+P1223,S132,Beauty,BrandD,Winter,Thu,None,20,0.0,67,189,0,0.3
+P1009,S117,Home,BrandA,Fall,Sat,BOGO,35,0.1,56,134,0,0.419
+P1586,S122,Clothing,BrandB,Summer,Wed,Seasonal,20,0.2,67,144,0,0.234
+P1157,S134,Electronics,BrandC,Spring,Tue,None,80,0.15,8,21,1,0.214
+P1331,S123,Sports,BrandC,Fall,Sat,Flash Sale,35,0.05,71,245,0,0.189
+P1308,S107,Home,BrandE,Fall,Sun,None,200,0.15,31,77,0,0.123
+P1018,S122,Home,BrandE,Winter,Sun,None,120,0.05,9,29,1,0.228
+P1000,S138,Home,BrandC,Summer,Fri,None,35,0.3,48,89,0,0.009
+P1219,S136,Electronics,BrandD,Winter,Tue,Flash Sale,350,0.1,69,194,1,0.273
+P1001,S118,Home,BrandA,Fall,Tue,BOGO,50,0.3,61,131,0,0.072
+P1104,S139,Clothing,BrandE,Winter,Fri,Flash Sale,80,0.15,24,38,0,0.218
+P1494,S138,Home,BrandB,Winter,Thu,Flash Sale,20,0.0,66,213,0,0.302
+P1562,S124,Home,BrandD,Winter,Sun,Seasonal,20,0.15,5,15,0,0.159
+P1316,S116,Clothing,BrandA,Summer,Tue,BOGO,350,0.0,73,187,1,0.462
+P1062,S111,Home,BrandA,Summer,Wed,BOGO,80,0.1,46,88,0,0.165
+P1023,S128,Clothing,BrandA,Spring,Fri,Seasonal,20,0.05,65,224,0,0.34
+P1430,S135,Beauty,BrandB,Spring,Sat,None,35,0.3,15,42,0,0.157
+P1296,S125,Beauty,BrandA,Summer,Thu,None,35,0.15,27,48,0,0.187
+P1314,S119,Beauty,BrandA,Summer,Sat,BOGO,35,0.15,70,215,1,0.285
+P1418,S106,Home,BrandA,Summer,Sun,Seasonal,120,0.1,9,27,0,0.256
+P1296,S114,Home,BrandB,Fall,Tue,Seasonal,350,0.0,63,119,0,0.293
+P1196,S101,Clothing,BrandD,Spring,Tue,BOGO,50,0.3,59,148,0,0.032
+P1426,S138,Beauty,BrandE,Summer,Tue,BOGO,350,0.15,54,113,1,0.207
+P1425,S123,Clothing,BrandE,Winter,Wed,None,200,0.1,65,130,0,0.411
+P1316,S113,Clothing,BrandC,Winter,Thu,Flash Sale,50,0.3,27,65,1,-0.011
+P1452,S109,Clothing,BrandE,Fall,Fri,None,80,0.3,25,68,0,0.119
+P1196,S124,Sports,BrandD,Summer,Thu,None,350,0.2,49,81,0,0.193
+P1380,S110,Clothing,BrandC,Spring,Sat,None,350,0.2,30,76,0,0.134
+P1421,S113,Electronics,BrandC,Winter,Wed,Seasonal,20,0.1,71,161,0,0.21
+P1564,S136,Electronics,BrandD,Fall,Thu,BOGO,20,0.1,49,83,0,0.265
+P1508,S125,Home,BrandB,Spring,Mon,Flash Sale,120,0.3,7,23,0,0.019
+P1485,S103,Beauty,BrandD,Spring,Mon,Seasonal,350,0.15,37,76,0,0.267
+P1412,S139,Electronics,BrandD,Winter,Sun,Seasonal,20,0.0,24,77,0,0.245
+P1547,S108,Electronics,BrandE,Winter,Fri,BOGO,80,0.3,30,78,0,-0.021
+P1215,S138,Sports,BrandA,Winter,Tue,BOGO,35,0.1,17,34,0,0.357
+P1447,S139,Home,BrandD,Winter,Sun,Seasonal,120,0.3,25,45,0,0.145
+P1545,S102,Sports,BrandC,Winter,Sat,Seasonal,80,0.05,39,124,0,0.177
+P1127,S137,Electronics,BrandE,Fall,Sat,BOGO,50,0.0,33,70,0,0.43
+P1582,S114,Sports,BrandA,Fall,Sat,Seasonal,200,0.3,76,227,0,0.172
+P1248,S108,Home,BrandD,Winter,Sun,BOGO,50,0.3,19,44,0,0.071
+P1017,S134,Clothing,BrandB,Summer,Wed,Flash Sale,35,0.15,23,56,0,0.317
+P1361,S116,Clothing,BrandC,Winter,Mon,Seasonal,200,0.3,11,31,0,0.085
+P1321,S123,Clothing,BrandC,Summer,Sun,BOGO,35,0.15,29,79,1,0.365
+P1234,S126,Sports,BrandA,Spring,Mon,None,35,0.15,70,207,0,0.131
+P1307,S113,Home,BrandE,Fall,Tue,Seasonal,200,0.3,75,138,0,0.138
+P1123,S123,Clothing,BrandD,Fall,Mon,Flash Sale,80,0.1,41,95,0,0.266
+P1476,S104,Sports,BrandB,Spring,Sun,None,35,0.1,75,200,0,0.237
+P1446,S113,Clothing,BrandC,Spring,Thu,BOGO,80,0.2,25,56,0,0.171
+P1026,S106,Beauty,BrandC,Spring,Mon,None,20,0.3,73,181,0,0.133
+P1215,S128,Clothing,BrandC,Spring,Fri,Seasonal,120,0.3,62,194,0,0.007
+P1223,S122,Electronics,BrandD,Fall,Mon,Flash Sale,350,0.15,65,97,0,0.343
+P1150,S118,Sports,BrandD,Fall,Wed,Seasonal,35,0.3,54,166,1,-0.039
+P1178,S107,Electronics,BrandE,Winter,Sun,None,35,0.1,55,132,0,0.285
+P1574,S105,Clothing,BrandC,Winter,Sun,BOGO,80,0.3,11,35,0,0.055
+P1532,S102,Clothing,BrandC,Winter,Mon,None,120,0.2,30,69,0,0.162
+P1075,S116,Home,BrandB,Fall,Thu,Seasonal,80,0.15,47,111,0,0.241
+P1087,S118,Electronics,BrandC,Winter,Tue,BOGO,20,0.15,77,133,0,0.295
+P1393,S120,Sports,BrandB,Fall,Mon,Seasonal,200,0.15,54,175,0,0.227
+P1495,S109,Electronics,BrandB,Summer,Wed,Seasonal,20,0.05,68,193,0,0.301
+P1501,S104,Sports,BrandB,Spring,Sun,Seasonal,50,0.3,10,25,0,-0.016
+P1177,S127,Clothing,BrandE,Spring,Thu,BOGO,50,0.15,51,140,0,0.204
+P1101,S114,Beauty,BrandA,Summer,Fri,BOGO,200,0.15,61,173,0,0.343
+P1089,S114,Electronics,BrandB,Summer,Thu,BOGO,120,0.1,74,236,1,0.233
+P1190,S102,Sports,BrandA,Winter,Mon,BOGO,120,0.2,22,61,1,0.228
+P1112,S129,Home,BrandC,Fall,Sun,BOGO,80,0.2,49,144,0,0.257
+P1440,S114,Beauty,BrandD,Summer,Tue,BOGO,200,0.0,19,63,0,0.265
+P1588,S131,Electronics,BrandB,Summer,Thu,Seasonal,200,0.3,37,83,0,-0.031
+P1472,S107,Electronics,BrandE,Summer,Thu,BOGO,35,0.3,62,201,0,-0.008
+P1030,S109,Home,BrandC,Summer,Sat,Seasonal,120,0.0,23,78,0,0.407
+P1566,S109,Sports,BrandA,Fall,Sat,Flash Sale,200,0.1,48,96,0,0.145
+P1264,S129,Sports,BrandD,Summer,Mon,Flash Sale,350,0.0,56,165,0,0.417
+P1487,S102,Home,BrandC,Fall,Thu,Flash Sale,200,0.05,50,90,0,0.29
+P1232,S125,Sports,BrandB,Summer,Sun,BOGO,50,0.15,25,51,0,0.139
+P1443,S135,Sports,BrandB,Spring,Tue,Flash Sale,80,0.2,25,57,0,0.078
+P1397,S102,Home,BrandE,Fall,Sat,BOGO,80,0.15,23,73,0,0.172
+P1172,S101,Electronics,BrandE,Fall,Fri,Flash Sale,80,0.3,24,44,0,0.167
+P1034,S106,Sports,BrandE,Winter,Mon,BOGO,35,0.05,58,175,0,0.378
+P1200,S113,Beauty,BrandB,Fall,Sun,Flash Sale,50,0.3,28,68,1,0.013
+P1145,S123,Beauty,BrandE,Spring,Tue,Seasonal,350,0.05,70,232,0,0.283
+P1383,S107,Sports,BrandA,Spring,Sun,Seasonal,35,0.2,35,102,0,0.13
+P1497,S126,Home,BrandD,Summer,Thu,None,350,0.15,52,157,0,0.254
+P1366,S125,Home,BrandB,Fall,Tue,None,350,0.1,62,160,0,0.189
+P1132,S134,Clothing,BrandE,Winter,Thu,BOGO,350,0.1,17,38,0,0.223
+P1220,S121,Electronics,BrandC,Fall,Sat,BOGO,200,0.0,44,82,1,0.323
+P1380,S137,Electronics,BrandB,Summer,Sun,Flash Sale,50,0.1,77,171,0,0.315
+P1538,S124,Electronics,BrandA,Fall,Thu,BOGO,200,0.1,59,195,0,0.35
+P1084,S107,Home,BrandB,Spring,Tue,None,35,0.1,56,106,0,0.203
+P1595,S105,Sports,BrandB,Spring,Tue,BOGO,50,0.0,72,190,0,0.431
+P1456,S118,Electronics,BrandB,Fall,Fri,Flash Sale,35,0.05,44,122,0,0.407
+P1366,S117,Beauty,BrandD,Summer,Sat,BOGO,120,0.0,11,32,0,0.34
+P1098,S118,Clothing,BrandE,Spring,Thu,BOGO,80,0.0,12,27,1,0.394
+P1386,S122,Clothing,BrandB,Spring,Thu,Seasonal,80,0.05,36,66,0,0.268
+P1417,S139,Clothing,BrandB,Spring,Tue,None,120,0.3,9,27,0,0.033
+P1293,S121,Electronics,BrandE,Fall,Sun,BOGO,20,0.05,25,66,0,0.297
+P1212,S120,Beauty,BrandA,Spring,Tue,Seasonal,80,0.3,70,169,0,0.221
+P1553,S110,Electronics,BrandB,Winter,Tue,Seasonal,20,0.0,49,145,0,0.288
+P1487,S116,Electronics,BrandE,Winter,Tue,None,200,0.1,45,126,1,0.262
+P1229,S139,Electronics,BrandA,Fall,Thu,BOGO,120,0.0,46,97,0,0.387
+P1570,S116,Electronics,BrandD,Winter,Sun,BOGO,120,0.1,53,125,1,0.269
+P1579,S112,Sports,BrandB,Fall,Fri,Flash Sale,35,0.1,49,108,1,0.32
+P1197,S128,Clothing,BrandE,Winter,Tue,BOGO,80,0.05,22,70,0,0.357
+P1443,S126,Sports,BrandB,Spring,Sun,Flash Sale,35,0.3,48,106,0,-0.021
+P1011,S114,Beauty,BrandD,Fall,Sun,None,20,0.15,23,59,0,0.213
+P1178,S132,Beauty,BrandE,Spring,Sat,Seasonal,20,0.05,51,154,0,0.209
+P1500,S112,Beauty,BrandE,Spring,Wed,Seasonal,20,0.2,10,16,0,0.188
+P1526,S109,Electronics,BrandE,Fall,Fri,None,35,0.2,14,30,0,0.122
+P1297,S104,Clothing,BrandA,Spring,Sat,Seasonal,20,0.2,44,134,0,0.038
+P1043,S131,Beauty,BrandD,Summer,Wed,Seasonal,350,0.2,22,58,0,0.073
+P1333,S120,Electronics,BrandB,Spring,Thu,Seasonal,35,0.3,15,25,0,-0.083
+P1152,S138,Home,BrandA,Winter,Fri,None,35,0.15,50,121,1,0.084
+P1477,S118,Clothing,BrandA,Summer,Sat,None,35,0.3,70,226,0,0.02
+P1203,S105,Home,BrandE,Summer,Wed,BOGO,20,0.2,11,32,0,0.213
+P1059,S138,Beauty,BrandB,Fall,Wed,Flash Sale,20,0.1,72,201,0,0.282
+P1537,S127,Beauty,BrandC,Spring,Sat,Seasonal,120,0.3,31,75,1,-0.045
+P1088,S127,Home,BrandE,Summer,Sat,None,20,0.15,23,37,1,0.277
+P1370,S100,Electronics,BrandB,Summer,Thu,None,50,0.2,54,85,0,0.25
+P1078,S121,Electronics,BrandC,Summer,Fri,Seasonal,20,0.1,50,85,0,0.352
+P1461,S121,Sports,BrandB,Fall,Wed,Flash Sale,50,0.15,32,80,0,0.343
+P1250,S139,Clothing,BrandB,Fall,Sat,Seasonal,35,0.15,42,134,0,0.394
+P1474,S122,Beauty,BrandC,Spring,Thu,BOGO,120,0.3,6,9,0,-0.002
+P1594,S132,Sports,BrandE,Summer,Sat,BOGO,20,0.0,24,55,0,0.335
+P1252,S111,Electronics,BrandD,Fall,Mon,None,50,0.2,63,219,0,0.02
+P1599,S123,Beauty,BrandA,Summer,Sat,None,200,0.0,53,111,1,0.251
+P1132,S110,Sports,BrandE,Summer,Sat,Seasonal,350,0.15,67,194,0,0.358
+P1077,S123,Beauty,BrandE,Spring,Mon,None,80,0.05,64,174,0,0.279
+P1282,S130,Clothing,BrandA,Spring,Fri,Seasonal,80,0.2,64,146,0,0.328
+P1052,S113,Electronics,BrandC,Spring,Mon,BOGO,35,0.05,63,162,1,0.371
+P1129,S110,Electronics,BrandB,Summer,Sun,BOGO,200,0.05,62,170,0,0.403
+P1317,S113,Home,BrandB,Summer,Sun,BOGO,35,0.05,33,80,0,0.314
+P1224,S110,Clothing,BrandB,Summer,Sun,Flash Sale,120,0.2,19,64,1,0.168
+P1058,S137,Clothing,BrandC,Fall,Tue,Flash Sale,350,0.3,20,30,0,-0.075
+P1099,S120,Sports,BrandA,Fall,Mon,None,35,0.0,36,116,0,0.337
+P1193,S133,Sports,BrandE,Winter,Mon,Flash Sale,200,0.1,46,86,0,0.176
+P1106,S117,Home,BrandB,Summer,Sat,None,35,0.3,56,134,0,-0.021
+P1086,S133,Electronics,BrandA,Fall,Tue,BOGO,35,0.05,64,201,1,0.373
+P1177,S102,Beauty,BrandA,Summer,Wed,BOGO,200,0.2,11,25,0,0.179
+P1544,S122,Electronics,BrandE,Summer,Mon,None,80,0.1,21,60,0,0.139
+P1111,S114,Beauty,BrandE,Spring,Thu,Seasonal,35,0.15,29,79,0,0.147
+P1125,S108,Home,BrandE,Winter,Wed,BOGO,35,0.05,38,124,0,0.418
+P1286,S127,Beauty,BrandB,Summer,Fri,BOGO,50,0.05,20,46,0,0.258
+P1226,S127,Beauty,BrandA,Summer,Thu,None,200,0.15,13,36,1,0.097
+P1415,S118,Electronics,BrandC,Fall,Thu,Flash Sale,20,0.0,46,79,1,0.433
+P1184,S106,Sports,BrandC,Spring,Mon,None,35,0.1,75,132,0,0.286
+P1426,S104,Sports,BrandB,Fall,Wed,Flash Sale,20,0.0,24,39,0,0.202
+P1204,S100,Clothing,BrandE,Winter,Thu,None,120,0.2,62,205,1,0.323
+P1414,S107,Sports,BrandB,Spring,Thu,None,50,0.3,64,113,0,0.014
+P1353,S115,Electronics,BrandC,Summer,Wed,Seasonal,35,0.15,18,54,0,0.167
+P1215,S128,Sports,BrandD,Spring,Wed,BOGO,35,0.0,48,81,0,0.34
+P1226,S104,Beauty,BrandA,Spring,Fri,None,50,0.05,69,220,1,0.42
+P1508,S109,Sports,BrandE,Fall,Thu,Flash Sale,350,0.3,15,32,0,0.007
+P1088,S135,Electronics,BrandB,Winter,Wed,None,35,0.0,43,124,0,0.377
+P1582,S107,Home,BrandD,Winter,Wed,Flash Sale,50,0.0,17,47,0,0.326
+P1296,S120,Electronics,BrandB,Fall,Sun,Flash Sale,80,0.0,57,167,0,0.441
+P1398,S105,Clothing,BrandE,Winter,Tue,Seasonal,20,0.05,56,170,1,0.279
+P1480,S113,Home,BrandC,Fall,Fri,Seasonal,200,0.05,67,220,0,0.267
+P1384,S112,Clothing,BrandE,Fall,Sat,Flash Sale,350,0.05,11,16,0,0.323
+P1570,S102,Clothing,BrandB,Summer,Tue,None,120,0.1,68,105,1,0.245
+P1296,S108,Clothing,BrandB,Spring,Tue,BOGO,200,0.2,22,69,0,0.057
+P1169,S100,Electronics,BrandD,Winter,Wed,BOGO,120,0.2,42,112,0,0.264
+P1437,S108,Clothing,BrandD,Winter,Sat,Seasonal,120,0.0,29,68,0,0.33
+P1277,S104,Sports,BrandA,Winter,Tue,Flash Sale,120,0.3,12,24,0,0.078
+P1599,S110,Electronics,BrandA,Spring,Fri,Seasonal,35,0.15,11,33,1,0.153
+P1595,S129,Electronics,BrandC,Spring,Tue,BOGO,350,0.2,54,167,0,0.2
+P1511,S123,Electronics,BrandB,Summer,Thu,BOGO,200,0.2,72,123,0,0.222
+P1257,S103,Beauty,BrandB,Summer,Thu,BOGO,80,0.2,68,233,0,0.152
+P1379,S127,Sports,BrandD,Fall,Sat,BOGO,35,0.1,14,43,0,0.327
+P1548,S135,Beauty,BrandB,Winter,Mon,Flash Sale,50,0.2,78,126,0,0.068
+P1327,S133,Home,BrandE,Spring,Sat,Seasonal,80,0.3,26,60,0,0.085
+P1424,S110,Clothing,BrandC,Winter,Sun,BOGO,200,0.3,28,73,0,0.124
+P1214,S103,Home,BrandA,Summer,Sun,Flash Sale,350,0.1,61,121,0,0.421
+P1321,S100,Clothing,BrandA,Spring,Fri,Seasonal,350,0.1,67,190,0,0.323
+P1200,S125,Sports,BrandA,Spring,Fri,Seasonal,350,0.15,40,133,0,0.179
+P1006,S135,Clothing,BrandD,Winter,Thu,None,350,0.15,8,17,0,0.171
+P1354,S111,Electronics,BrandD,Spring,Mon,BOGO,350,0.0,30,72,0,0.25
+P1579,S112,Electronics,BrandB,Summer,Thu,BOGO,350,0.0,16,48,1,0.303
+P1508,S116,Sports,BrandD,Summer,Mon,Flash Sale,50,0.3,7,12,0,0.176
+P1286,S126,Sports,BrandB,Spring,Sun,None,50,0.0,71,204,1,0.282
+P1390,S103,Beauty,BrandD,Winter,Wed,Seasonal,80,0.05,63,158,0,0.419
+P1057,S124,Sports,BrandD,Summer,Sun,Seasonal,35,0.2,23,42,0,0.212
+P1487,S122,Clothing,BrandB,Fall,Mon,Seasonal,200,0.15,14,25,0,0.328
+P1149,S112,Sports,BrandD,Summer,Mon,None,50,0.1,11,17,0,0.189
+P1499,S138,Electronics,BrandA,Winter,Tue,BOGO,200,0.1,68,202,0,0.276
+P1064,S104,Clothing,BrandA,Spring,Tue,None,200,0.0,17,51,0,0.422
+P1079,S107,Clothing,BrandB,Summer,Mon,Flash Sale,200,0.0,22,40,0,0.378
+P1073,S123,Sports,BrandE,Fall,Sat,None,120,0.0,52,132,0,0.31
+P1374,S130,Home,BrandC,Spring,Fri,Seasonal,80,0.1,21,48,0,0.316
+P1403,S118,Electronics,BrandD,Fall,Tue,Seasonal,20,0.0,71,243,0,0.275
+P1338,S139,Electronics,BrandC,Winter,Tue,Seasonal,80,0.2,20,35,0,0.184
+P1046,S131,Clothing,BrandD,Winter,Sun,Seasonal,50,0.05,67,211,1,0.314
+P1065,S110,Clothing,BrandD,Winter,Mon,BOGO,50,0.2,42,140,1,0.107
+P1002,S121,Clothing,BrandD,Fall,Sun,Seasonal,350,0.2,46,145,0,0.119
+P1051,S138,Beauty,BrandE,Fall,Mon,None,20,0.2,39,67,1,0.194
+P1335,S111,Electronics,BrandD,Winter,Sun,None,35,0.3,79,123,0,0.24
+P1137,S106,Electronics,BrandA,Spring,Sun,None,50,0.0,49,134,0,0.27
+P1577,S138,Beauty,BrandC,Spring,Sat,None,35,0.2,65,98,0,0.186
+P1483,S136,Clothing,BrandB,Fall,Sun,Flash Sale,50,0.1,29,90,1,0.19
+P1065,S104,Electronics,BrandD,Spring,Tue,None,20,0.2,69,168,1,0.027
+P1132,S128,Sports,BrandC,Spring,Sat,BOGO,35,0.0,75,240,1,0.209
+P1270,S136,Beauty,BrandE,Fall,Mon,BOGO,50,0.05,64,206,0,0.365
+P1096,S124,Sports,BrandE,Spring,Thu,Seasonal,350,0.15,27,44,0,0.259
+P1017,S120,Electronics,BrandC,Summer,Mon,None,35,0.1,13,27,0,0.243
+P1010,S137,Electronics,BrandB,Fall,Tue,Seasonal,200,0.1,21,57,0,0.196
+P1488,S112,Beauty,BrandE,Summer,Fri,Seasonal,20,0.1,71,235,0,0.151
+P1447,S132,Clothing,BrandE,Winter,Tue,None,50,0.2,11,19,0,0.108
+P1254,S105,Home,BrandC,Winter,Thu,BOGO,120,0.3,45,150,0,0.021
+P1459,S109,Home,BrandB,Fall,Sat,BOGO,50,0.15,5,17,0,0.145
+P1221,S133,Home,BrandD,Summer,Sun,None,200,0.0,28,82,0,0.476
+P1475,S121,Electronics,BrandE,Summer,Tue,BOGO,200,0.0,64,209,0,0.306
+P1133,S103,Clothing,BrandE,Fall,Tue,Flash Sale,200,0.3,15,41,0,-0.036
+P1157,S139,Clothing,BrandA,Fall,Mon,Seasonal,50,0.15,63,219,0,0.253
+P1247,S139,Home,BrandC,Spring,Thu,Seasonal,20,0.1,35,112,0,0.223
+P1463,S128,Clothing,BrandD,Winter,Sun,None,80,0.2,31,107,1,0.365
+P1214,S123,Sports,BrandE,Spring,Thu,Seasonal,120,0.05,37,59,0,0.25
+P1289,S121,Home,BrandE,Winter,Sun,BOGO,350,0.05,18,54,0,0.406
+P1292,S113,Clothing,BrandD,Summer,Thu,Flash Sale,200,0.2,36,122,1,0.306
+P1453,S109,Clothing,BrandA,Fall,Thu,BOGO,35,0.0,69,239,1,0.387
+P1179,S135,Electronics,BrandB,Summer,Tue,BOGO,35,0.05,32,61,0,0.291
+P1227,S126,Home,BrandC,Spring,Wed,BOGO,35,0.3,75,158,0,0.181
+P1510,S113,Electronics,BrandE,Winter,Mon,None,50,0.2,76,154,0,0.25
+P1300,S110,Sports,BrandB,Spring,Sat,None,20,0.1,30,93,1,0.137
+P1484,S107,Sports,BrandD,Spring,Mon,BOGO,50,0.05,9,24,0,0.362
+P1449,S138,Sports,BrandB,Spring,Sat,BOGO,50,0.3,38,66,1,0.146
+P1438,S118,Clothing,BrandA,Spring,Mon,Seasonal,120,0.2,14,32,0,0.24
+P1473,S136,Sports,BrandA,Winter,Sat,BOGO,350,0.15,74,131,0,0.09
+P1051,S138,Sports,BrandA,Spring,Sun,Flash Sale,200,0.2,43,108,0,0.17
+P1435,S103,Sports,BrandB,Summer,Wed,None,20,0.3,32,90,1,0.059
+P1570,S108,Sports,BrandD,Summer,Thu,Flash Sale,50,0.05,37,125,0,0.313
+P1534,S122,Electronics,BrandE,Spring,Wed,None,350,0.15,25,51,0,0.359
+P1117,S113,Clothing,BrandC,Summer,Tue,Seasonal,80,0.05,14,38,0,0.432
+P1155,S103,Beauty,BrandA,Fall,Thu,Seasonal,350,0.15,32,66,0,0.141
+P1580,S116,Electronics,BrandB,Spring,Fri,Flash Sale,20,0.15,66,116,0,0.263
+P1505,S102,Clothing,BrandB,Fall,Wed,Seasonal,80,0.2,24,56,0,0.252
+P1047,S120,Electronics,BrandC,Spring,Fri,None,80,0.2,58,190,0,0.247
+P1052,S128,Home,BrandB,Summer,Thu,Seasonal,350,0.0,39,88,0,0.346
+P1539,S138,Electronics,BrandC,Winter,Thu,Seasonal,350,0.3,23,69,1,0.158
+P1392,S114,Home,BrandB,Fall,Sun,Seasonal,200,0.15,29,55,0,0.222
+P1092,S123,Beauty,BrandD,Fall,Fri,BOGO,80,0.0,17,28,0,0.323
+P1157,S119,Home,BrandB,Winter,Sun,BOGO,50,0.05,38,91,0,0.265
+P1238,S136,Beauty,BrandE,Winter,Sat,BOGO,20,0.2,21,46,0,0.18
+P1141,S113,Home,BrandE,Summer,Sat,BOGO,200,0.15,79,138,0,0.237
+P1238,S115,Beauty,BrandA,Winter,Fri,BOGO,120,0.2,20,60,0,0.182
+P1020,S120,Sports,BrandC,Spring,Sat,Seasonal,350,0.2,40,63,0,0.196
+P1261,S122,Clothing,BrandE,Winter,Wed,BOGO,80,0.15,60,138,0,0.099
+P1353,S125,Sports,BrandD,Winter,Fri,BOGO,20,0.0,12,21,0,0.452
+P1328,S131,Clothing,BrandE,Fall,Sun,Seasonal,200,0.3,25,64,1,0.105
+P1244,S126,Clothing,BrandB,Fall,Tue,BOGO,20,0.1,32,63,0,0.305
+P1213,S100,Sports,BrandA,Winter,Wed,Flash Sale,350,0.15,26,77,1,0.199
+P1538,S110,Electronics,BrandA,Winter,Sat,Flash Sale,200,0.15,19,61,0,0.128
+P1009,S104,Electronics,BrandE,Winter,Wed,Flash Sale,350,0.0,22,37,0,0.308
+P1232,S118,Home,BrandC,Summer,Mon,BOGO,35,0.0,12,20,0,0.411
+P1251,S120,Clothing,BrandC,Fall,Tue,Seasonal,200,0.1,70,167,0,0.343
+P1599,S104,Sports,BrandD,Spring,Tue,Seasonal,50,0.05,5,7,0,0.398
+P1555,S115,Home,BrandD,Spring,Tue,Seasonal,35,0.0,53,118,0,0.35
+P1509,S117,Beauty,BrandD,Spring,Wed,BOGO,20,0.0,12,27,0,0.426
+P1031,S111,Sports,BrandC,Summer,Sun,None,35,0.1,10,24,0,0.293
+P1470,S135,Electronics,BrandC,Spring,Sat,BOGO,35,0.2,7,17,0,0.358
+P1357,S110,Beauty,BrandB,Spring,Sat,Seasonal,80,0.3,33,104,0,0.064
+P1159,S132,Home,BrandC,Spring,Sun,None,80,0.05,39,74,0,0.33
+P1183,S116,Sports,BrandD,Spring,Sun,BOGO,350,0.1,18,56,0,0.282
+P1345,S111,Electronics,BrandA,Winter,Mon,Flash Sale,120,0.3,45,144,0,-0.079
+P1402,S112,Clothing,BrandD,Summer,Tue,None,200,0.2,35,74,0,0.105
+P1207,S104,Beauty,BrandA,Winter,Thu,Flash Sale,20,0.15,72,215,0,0.27
+P1386,S120,Beauty,BrandC,Spring,Sun,None,35,0.0,70,117,0,0.442
+P1067,S138,Clothing,BrandE,Summer,Thu,None,50,0.3,49,93,0,0.087
+P1240,S125,Sports,BrandB,Summer,Sun,Seasonal,350,0.2,71,184,0,0.278
+P1070,S125,Beauty,BrandD,Fall,Sat,BOGO,80,0.2,48,162,0,0.075
+P1482,S112,Electronics,BrandE,Winter,Fri,Flash Sale,50,0.1,47,128,0,0.157
+P1499,S125,Electronics,BrandC,Summer,Thu,Seasonal,50,0.0,19,34,0,0.41
+P1281,S102,Beauty,BrandE,Spring,Thu,Seasonal,120,0.2,57,195,0,0.162
+P1155,S129,Clothing,BrandB,Fall,Wed,BOGO,350,0.0,48,86,0,0.43
+P1521,S120,Home,BrandB,Summer,Fri,Flash Sale,200,0.05,28,69,0,0.297
+P1447,S122,Electronics,BrandA,Fall,Mon,None,20,0.05,50,149,0,0.315
+P1324,S128,Clothing,BrandA,Fall,Thu,None,80,0.0,55,175,1,0.389
+P1185,S117,Home,BrandE,Winter,Wed,Flash Sale,120,0.0,24,39,0,0.335
+P1411,S106,Electronics,BrandD,Spring,Mon,Seasonal,35,0.0,8,25,1,0.468
+P1497,S133,Electronics,BrandA,Winter,Mon,Flash Sale,35,0.0,10,15,0,0.317
+P1167,S125,Clothing,BrandD,Summer,Tue,BOGO,200,0.05,13,20,1,0.34
+P1297,S137,Sports,BrandB,Fall,Sat,BOGO,350,0.05,55,151,0,0.324
+P1540,S134,Home,BrandE,Summer,Mon,None,80,0.05,61,130,0,0.231
+P1283,S131,Electronics,BrandA,Summer,Sat,Flash Sale,120,0.05,71,137,0,0.275
+P1564,S139,Home,BrandB,Summer,Thu,None,120,0.15,26,63,0,0.15
+P1322,S132,Home,BrandC,Spring,Tue,Flash Sale,35,0.0,49,121,1,0.398
+P1201,S120,Clothing,BrandC,Summer,Sun,Seasonal,20,0.05,11,35,0,0.319
+P1541,S112,Beauty,BrandD,Spring,Wed,Seasonal,35,0.05,22,67,0,0.304
+P1143,S127,Clothing,BrandA,Spring,Thu,BOGO,80,0.15,52,125,0,0.335
+P1348,S102,Home,BrandD,Spring,Wed,Seasonal,80,0.3,52,81,1,0.151
+P1515,S119,Beauty,BrandA,Fall,Sun,Seasonal,20,0.05,10,32,0,0.355
+P1192,S116,Sports,BrandD,Winter,Tue,BOGO,350,0.2,20,68,0,0.201
+P1524,S111,Home,BrandA,Spring,Mon,Flash Sale,350,0.05,58,108,0,0.201
+P1071,S102,Electronics,BrandE,Winter,Sun,None,35,0.05,67,214,0,0.357
+P1494,S118,Clothing,BrandB,Winter,Fri,Seasonal,200,0.2,12,22,0,0.201
+P1054,S124,Electronics,BrandD,Summer,Mon,BOGO,20,0.3,15,28,0,0.188
+P1144,S135,Sports,BrandD,Spring,Sun,Flash Sale,35,0.0,51,123,0,0.358
+P1275,S136,Clothing,BrandB,Fall,Sat,Seasonal,200,0.3,51,171,0,-0.023
+P1086,S134,Electronics,BrandE,Winter,Mon,BOGO,350,0.3,26,53,0,0.006
+P1462,S132,Home,BrandA,Fall,Thu,Flash Sale,35,0.05,74,169,1,0.336
+P1262,S127,Home,BrandD,Summer,Mon,Flash Sale,80,0.2,59,182,0,0.26
+P1002,S134,Sports,BrandB,Fall,Mon,Seasonal,120,0.3,36,59,0,-0.1
+P1309,S122,Beauty,BrandA,Winter,Tue,Seasonal,20,0.15,22,74,0,0.267
+P1492,S101,Clothing,BrandC,Fall,Mon,None,35,0.15,6,16,0,0.144
+P1455,S130,Sports,BrandA,Summer,Sun,Seasonal,50,0.05,55,188,0,0.277
+P1427,S134,Clothing,BrandE,Summer,Tue,BOGO,20,0.05,45,157,0,0.239
+P1377,S118,Beauty,BrandE,Fall,Thu,None,35,0.15,40,134,0,0.235
+P1427,S137,Clothing,BrandB,Winter,Sun,Flash Sale,50,0.2,18,57,0,0.286
+P1280,S134,Electronics,BrandE,Winter,Sun,Flash Sale,80,0.0,64,132,0,0.386
+P1172,S100,Clothing,BrandB,Winter,Thu,Seasonal,200,0.1,77,176,0,0.186
+P1445,S116,Electronics,BrandA,Winter,Sun,Flash Sale,35,0.0,14,33,0,0.218
+P1594,S130,Clothing,BrandE,Summer,Wed,Seasonal,200,0.05,14,29,0,0.199
+P1535,S117,Clothing,BrandA,Winter,Wed,Flash Sale,50,0.3,71,144,0,0.048
+P1384,S105,Clothing,BrandC,Summer,Wed,Seasonal,20,0.05,52,99,0,0.281
+P1298,S109,Clothing,BrandA,Summer,Mon,BOGO,20,0.2,32,102,1,0.292
+P1281,S109,Home,BrandC,Spring,Mon,BOGO,20,0.15,7,16,0,0.341
+P1110,S139,Sports,BrandC,Winter,Mon,Seasonal,200,0.2,54,162,0,0.043
+P1391,S102,Clothing,BrandA,Summer,Thu,None,350,0.0,61,142,0,0.311
+P1518,S113,Clothing,BrandD,Spring,Fri,None,50,0.1,59,101,0,0.302
+P1355,S106,Sports,BrandB,Fall,Tue,BOGO,200,0.05,34,117,0,0.287
+P1257,S130,Electronics,BrandD,Spring,Wed,None,50,0.15,13,26,0,0.284
+P1356,S119,Sports,BrandA,Spring,Mon,BOGO,50,0.1,6,19,0,0.356
+P1300,S115,Beauty,BrandD,Winter,Mon,BOGO,50,0.05,35,60,0,0.379
+P1417,S123,Beauty,BrandE,Fall,Wed,Seasonal,200,0.0,31,63,0,0.4
+P1468,S139,Sports,BrandC,Summer,Sun,Flash Sale,80,0.2,43,80,0,0.27
+P1524,S123,Sports,BrandA,Summer,Wed,BOGO,350,0.2,51,167,0,0.202
+P1286,S103,Home,BrandC,Spring,Fri,None,20,0.0,62,161,0,0.306
+P1039,S119,Beauty,BrandD,Fall,Tue,Flash Sale,80,0.3,45,75,0,-0.084
+P1523,S107,Home,BrandD,Spring,Mon,None,200,0.1,18,58,0,0.297
+P1269,S116,Sports,BrandE,Spring,Wed,Flash Sale,20,0.1,21,47,0,0.315
+P1187,S108,Clothing,BrandD,Spring,Tue,BOGO,120,0.2,50,134,0,0.218
+P1175,S117,Electronics,BrandD,Winter,Tue,Seasonal,35,0.15,62,110,0,0.367
+P1375,S135,Electronics,BrandE,Winter,Wed,Seasonal,120,0.15,40,68,0,0.11
+P1218,S131,Clothing,BrandD,Fall,Tue,BOGO,120,0.2,29,93,0,0.212
+P1027,S134,Sports,BrandE,Summer,Tue,BOGO,20,0.2,69,237,0,0.27
+P1244,S138,Sports,BrandD,Winter,Wed,None,200,0.3,42,141,0,-0.032
+P1385,S133,Sports,BrandE,Fall,Fri,Seasonal,50,0.05,30,90,0,0.298
+P1527,S105,Sports,BrandD,Summer,Tue,None,80,0.05,63,124,0,0.3
+P1176,S112,Sports,BrandE,Spring,Wed,None,120,0.15,26,48,0,0.341
+P1128,S102,Electronics,BrandE,Summer,Wed,Seasonal,35,0.3,46,78,0,0.045
+P1414,S121,Home,BrandD,Spring,Mon,Flash Sale,350,0.15,35,103,0,0.21
+P1104,S116,Sports,BrandE,Summer,Sat,Flash Sale,35,0.2,50,116,0,0.236
+P1388,S123,Home,BrandD,Fall,Mon,BOGO,35,0.3,71,178,0,-0.012
+P1348,S103,Sports,BrandA,Summer,Sun,Flash Sale,350,0.05,74,156,0,0.44
+P1512,S139,Electronics,BrandA,Summer,Fri,None,50,0.15,59,178,0,0.243
+P1544,S107,Home,BrandB,Spring,Tue,None,50,0.05,54,83,0,0.359
+P1497,S101,Clothing,BrandD,Winter,Wed,Seasonal,35,0.1,74,148,0,0.221
+P1521,S104,Electronics,BrandE,Fall,Sun,None,200,0.0,25,40,0,0.319
+P1522,S125,Beauty,BrandC,Summer,Mon,None,35,0.2,10,27,0,0.097
+P1285,S139,Electronics,BrandA,Winter,Fri,Flash Sale,200,0.15,7,22,0,0.154
+P1311,S135,Electronics,BrandD,Winter,Sat,Seasonal,200,0.05,55,99,1,0.316
+P1069,S134,Beauty,BrandD,Fall,Thu,None,20,0.0,68,214,0,0.279
+P1350,S109,Home,BrandA,Spring,Wed,None,120,0.05,14,39,0,0.359
+P1575,S129,Electronics,BrandA,Fall,Wed,BOGO,120,0.1,62,94,1,0.372
+P1050,S104,Sports,BrandB,Fall,Mon,BOGO,35,0.1,58,152,0,0.279
+P1193,S126,Home,BrandB,Fall,Fri,None,350,0.15,19,28,0,0.221
+P1016,S108,Beauty,BrandC,Fall,Tue,Seasonal,20,0.3,62,195,0,0.07
+P1263,S109,Electronics,BrandB,Summer,Fri,None,80,0.0,56,160,0,0.4
+P1390,S101,Beauty,BrandA,Summer,Tue,Seasonal,50,0.0,8,26,1,0.26
+P1455,S131,Beauty,BrandB,Summer,Sun,Seasonal,50,0.1,45,154,0,0.37
+P1341,S112,Electronics,BrandB,Spring,Wed,BOGO,200,0.3,9,28,0,0.117
+P1549,S138,Beauty,BrandA,Fall,Thu,Flash Sale,35,0.15,6,20,0,0.149
+P1004,S136,Beauty,BrandA,Summer,Fri,None,80,0.05,32,95,0,0.268
+P1400,S103,Electronics,BrandE,Fall,Wed,None,80,0.1,25,42,0,0.362
+P1473,S105,Home,BrandA,Summer,Fri,Flash Sale,20,0.15,35,94,0,0.362
+P1364,S129,Beauty,BrandC,Winter,Sun,None,35,0.05,9,23,0,0.407
+P1545,S136,Beauty,BrandD,Winter,Mon,Seasonal,120,0.3,53,183,0,-0.035
+P1369,S119,Electronics,BrandD,Winter,Wed,Flash Sale,50,0.1,13,36,0,0.309
+P1025,S135,Home,BrandA,Summer,Thu,Seasonal,350,0.05,61,168,0,0.229
+P1109,S120,Electronics,BrandB,Summer,Mon,BOGO,35,0.2,27,82,0,0.159
+P1503,S121,Clothing,BrandA,Summer,Thu,Flash Sale,80,0.2,45,121,0,0.245
+P1576,S101,Electronics,BrandE,Summer,Mon,Seasonal,20,0.05,49,75,0,0.315
+P1112,S129,Beauty,BrandA,Summer,Tue,BOGO,80,0.3,46,122,1,0.102
+P1563,S132,Sports,BrandD,Fall,Wed,BOGO,120,0.0,79,158,1,0.394
+P1396,S117,Home,BrandA,Fall,Sat,None,120,0.05,41,78,0,0.472
+P1328,S109,Clothing,BrandB,Summer,Sat,None,35,0.15,70,182,0,0.243
+P1597,S119,Sports,BrandD,Fall,Wed,Flash Sale,120,0.2,58,199,1,0.237
+P1287,S114,Sports,BrandB,Spring,Tue,Flash Sale,120,0.05,26,64,0,0.256
+P1542,S105,Electronics,BrandA,Fall,Tue,BOGO,35,0.2,42,144,0,0.134
+P1256,S108,Sports,BrandB,Winter,Fri,Seasonal,20,0.3,71,115,0,0.099
+P1371,S138,Beauty,BrandB,Spring,Tue,None,120,0.1,78,225,0,0.204
+P1530,S131,Clothing,BrandA,Spring,Sun,Flash Sale,80,0.2,19,59,0,0.146
+P1562,S136,Clothing,BrandE,Fall,Sat,Seasonal,120,0.1,78,260,0,0.228
+P1382,S127,Home,BrandB,Summer,Thu,Flash Sale,50,0.2,76,139,0,0.119
+P1348,S119,Home,BrandB,Fall,Wed,BOGO,200,0.1,63,155,0,0.223
+P1024,S116,Home,BrandE,Fall,Wed,None,50,0.15,27,42,0,0.288
+P1172,S103,Beauty,BrandD,Summer,Tue,None,200,0.05,43,96,0,0.316
+P1037,S114,Electronics,BrandB,Winter,Sun,Seasonal,350,0.15,22,53,0,0.287
+P1013,S130,Beauty,BrandE,Winter,Wed,BOGO,50,0.15,75,173,0,0.208
+P1594,S114,Beauty,BrandE,Summer,Tue,None,50,0.05,34,94,0,0.375
+P1239,S138,Electronics,BrandC,Winter,Tue,None,80,0.3,24,60,1,-0.07
+P1507,S121,Home,BrandC,Winter,Wed,Seasonal,350,0.1,12,27,0,0.368
+P1293,S132,Home,BrandA,Summer,Mon,BOGO,50,0.3,5,16,0,0.033
+P1597,S138,Home,BrandE,Spring,Mon,None,120,0.0,75,119,0,0.313
+P1035,S120,Clothing,BrandA,Fall,Wed,Seasonal,200,0.15,31,63,0,0.303
+P1374,S105,Clothing,BrandC,Fall,Tue,Flash Sale,120,0.1,61,127,0,0.331
+P1354,S105,Home,BrandD,Fall,Fri,Seasonal,350,0.2,79,192,0,0.017
+P1502,S102,Beauty,BrandC,Fall,Sat,BOGO,35,0.1,56,112,0,0.189
+P1226,S135,Electronics,BrandA,Spring,Thu,Flash Sale,20,0.3,40,81,1,0.165
+P1233,S124,Electronics,BrandC,Winter,Sat,Seasonal,50,0.0,68,141,0,0.355
+P1276,S101,Home,BrandB,Winter,Thu,Flash Sale,120,0.2,20,65,0,0.079
+P1567,S123,Home,BrandC,Spring,Tue,BOGO,50,0.1,71,127,0,0.28
+P1022,S137,Home,BrandB,Fall,Tue,Seasonal,200,0.15,21,60,0,0.209
+P1451,S110,Clothing,BrandD,Summer,Sun,BOGO,20,0.15,47,163,0,0.185
+P1321,S130,Electronics,BrandE,Spring,Mon,Seasonal,35,0.05,32,59,0,0.294
+P1565,S129,Beauty,BrandB,Spring,Sat,None,50,0.2,69,205,0,0.327
+P1114,S132,Clothing,BrandD,Spring,Sun,Flash Sale,50,0.15,38,126,0,0.124
+P1507,S133,Beauty,BrandA,Fall,Thu,None,80,0.2,9,27,1,0.201
+P1590,S117,Home,BrandB,Summer,Wed,None,120,0.1,59,115,0,0.328
+P1012,S108,Clothing,BrandE,Winter,Sat,BOGO,350,0.3,79,187,0,0.232
+P1110,S131,Sports,BrandA,Spring,Sun,None,50,0.1,78,193,0,0.369
+P1018,S133,Clothing,BrandD,Summer,Wed,None,80,0.2,54,154,0,0.146

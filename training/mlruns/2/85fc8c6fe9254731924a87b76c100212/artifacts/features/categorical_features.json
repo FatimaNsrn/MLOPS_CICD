@@ -1,0 +1,10 @@
+[
+  "product_id",
+  "category",
+  "brand",
+  "store_id",
+  "store_location",
+  "promotion_type",
+  "day_of_week",
+  "season"
+]

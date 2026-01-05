@@ -1,0 +1,19 @@
+artifact_path: file:///e:/MLOPS/training/mlruns/1/models/m-132965c0c7ba47158567fd33de7f03fc/artifacts
+flavors:
+  python_function:
+    cloudpickle_version: 3.1.1
+    code: null
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.11.4
+    streamable: false
+mlflow_version: 3.8.0
+model_id: m-132965c0c7ba47158567fd33de7f03fc
+model_size_bytes: 4799856
+model_uuid: m-132965c0c7ba47158567fd33de7f03fc
+prompts: null
+run_id: c25aa78d094b44818531d1af70859318
+utc_time_created: '2025-12-31 18:04:28.895658'
