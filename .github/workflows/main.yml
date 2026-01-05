@@ -24,9 +24,12 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Run unit tests (feature hashing)
+    - name: Run unit tests
+      env:
+        PYTHONPATH: .
       run: |
         pytest tests/test_feature_hashing.py
+
 
     - name: Run linting
       run: |
