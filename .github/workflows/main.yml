@@ -60,7 +60,8 @@ jobs:
           sleep 10
 
       - name: Build Docker image
-        run: docker build -t profit-classifier .
+        run: |
+          docker build -t profit-classifier ./serving
 
       - name: Run FastAPI container
         run: |
