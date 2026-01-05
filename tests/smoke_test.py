@@ -1,6 +1,7 @@
 import requests
 import time
 
+
 def test_smoke_prediction():
     # wait for FastAPI to start
     time.sleep(5)

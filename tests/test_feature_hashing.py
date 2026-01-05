@@ -1,6 +1,7 @@
 from sklearn.feature_extraction import FeatureHasher
 import numpy as np
 
+
 def test_feature_hashing_consistency():
     hasher = FeatureHasher(n_features=16, input_type="string")
 
