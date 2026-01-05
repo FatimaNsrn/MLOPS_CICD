@@ -74,4 +74,4 @@ jobs:
       - name: Smoke test
         run: |
           pip install requests
-          python tests/test_predict.py
+          python tests/smoke_test.py
